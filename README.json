@@ -1,0 +1,909 @@
+{
+  "items": [
+    {
+      "description": "If you already love s-expressions then lisp-flavored languages will make it nicer when you need to build on existing platforms. In case the target language does not support advanced features like macros and REPL-driven development, these can often be easily added by using the s-expressions layer.\nThe second point is about helping to spread lisp and its powerful ideas more. The example of Clojure and its relative popularity shows that being hosted on existing mainstream language and leveraging ecosystems of existing libraries is a key to broader adoption. It also lowers the barrier for people to try lisp and learn about the ideas behind it. Traditionally to learn lisp one needs to learn and get used to very unfamiliar syntax while at the same time being exposed to a completely new environment and ecosystem. Taking the environment out of the equation can make the experience of trying out lisp more approachable.",
+      "items": [],
+      "title": "Why should I care as a lisp programmer?"
+    },
+    {
+      "description": "Learning about Lisp will make you a better programmer. You can pick any language below based on the language you are familiar with to get you started with the lisp syntax more easily. It is also worth to read a post to get intuition for lisp syntax.\nIn general when one learns any new programming language it opens new horizons and improves programming insight. Modern programming languages are converging and sometimes are being very similar to each other. The similarities can be missed because they are hidden behind a specific syntax.\nIf we translate the languages to a common syntax the similarities are more apparent and the different concepts stand out more. That way we can focus on the new innovative concepts and ideas to broaden our horizons.",
+      "items": [],
+      "title": "Why should I care as a programmer in other language?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mal",
+          "description": "is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-10-22T16:42:57Z",
+            "owner": "kanaka",
+            "repo": "mal",
+            "stars": 10706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lux",
+          "description": "[Type-B] functional, statically-typed Lisp that will run on several platforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-05T21:05:13Z",
+            "owner": "LuxLang",
+            "repo": "lux",
+            "stars": 1741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wax",
+          "description": "[Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-03T06:01:28Z",
+            "owner": "LingDong-",
+            "repo": "wax",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ribbit",
+          "description": "[Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-05T02:06:13Z",
+            "owner": "udem-dlteam",
+            "repo": "ribbit",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zick Standard Lisp",
+          "description": "minimal lisp with 42 implementations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2021-03-14T04:44:55Z",
+            "owner": "zick",
+            "repo": "ZickStandardLisp",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Multi Lang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clasp",
+          "description": "[Type-L] compiled using LLVM, seamless integration with existing libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-10T16:21:13Z",
+            "owner": "clasp-developers",
+            "repo": "clasp",
+            "stars": 2781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coalton",
+          "description": "[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-02T13:18:46Z",
+            "owner": "coalton-lang",
+            "repo": "coalton",
+            "stars": 1740
+          }
+        }
+      ],
+      "title": "Common Lisp"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Carp",
+          "description": "[Type-B] statically typed, no GC (Rust-like borrow checking)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-03T19:51:02Z",
+            "owner": "carp-lang",
+            "repo": "Carp",
+            "stars": 6004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FemtoLisp",
+          "description": "[Type-S] scheme-like lisp, powers the compiler of the Julia language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2020-02-26T09:27:37Z",
+            "owner": "JeffBezanson",
+            "repo": "femtolisp",
+            "stars": 1719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extempore",
+          "description": "[Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T04:13:00Z",
+            "owner": "digego",
+            "repo": "extempore",
+            "stars": 1467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dale",
+          "description": "[Type-B] Lisp-flavoured C with additional features, no GC, LLVM backend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-20T21:30:53Z",
+            "owner": "tomhrr",
+            "repo": "dale",
+            "stars": 1046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Mera",
+          "description": "[Type-A] also includes extensions to generate code to run on CUDA, GLSL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-03-07T14:00:36Z",
+            "owner": "kiselgra",
+            "repo": "c-mera",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liz",
+          "description": "[Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-10-02T12:30:44Z",
+            "owner": "dundalek",
+            "repo": "liz",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jo_clojure",
+          "description": "[Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-26T15:17:18Z",
+            "owner": "Zelex",
+            "repo": "jo_clojure",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lcc",
+          "description": "[Type-A] Lisp-like syntax for writing C",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2025-05-04T10:38:35Z",
+            "owner": "saman-pasha",
+            "repo": "lcc",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toccata",
+          "description": "[Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T01:58:08Z",
+            "owner": "Toccata-Lang",
+            "repo": "toccata",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cakelisp",
+          "description": "[Type-A] performance-oriented, good for game development, compiles down to C/C++, macros and compile-time code modification",
+          "children": []
+        }
+      ],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clojure CLR",
+          "description": "[Type-C] great for game development with arcadia and unity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T15:34:01Z",
+            "owner": "clojure",
+            "repo": "clojure-clr",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RainLisp",
+          "description": "[Type-B] inspired by Scheme, interpreted, can be used as DSL integrating with .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T08:05:43Z",
+            "owner": "chr1st0scli",
+            "repo": "RainLisp",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zygo",
+          "description": "[Type-B] embedable, call into native Go using reflection, optional infix syntax",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-30T14:11:06Z",
+            "owner": "glycerine",
+            "repo": "zygomys",
+            "stars": 1787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "let-go",
+          "description": "[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:57:53Z",
+            "owner": "nooga",
+            "repo": "let-go",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZYLISP",
+          "description": "[Type-A] simple Lisp that compiles to Go (source or bytecode)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-02-02T16:36:50Z",
+            "owner": "zylisp",
+            "repo": "gisp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slick",
+          "description": "[Type-L] Lisp/Scheme-style s-expression surface syntax for the Go programming language",
+          "children": []
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Armed Bear Clojure",
+          "description": "[Type-C+L] Common Lisp embedded in Clojure via ABCL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-04-27T22:46:18Z",
+            "owner": "lsevero",
+            "repo": "abclj",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Venice",
+          "description": "[Type-C] Clojure-inspired, sandboxed, Java interop, 800+ builtin functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-31T19:38:34Z",
+            "owner": "jlangch",
+            "repo": "venice",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wisp",
+          "description": "[Type-C] Clojure-like, has protocols, no persistent data structures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "wisp",
+            "last_commit": "2021-02-07T18:25:43Z",
+            "owner": "wisp-lang",
+            "repo": "wisp",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squint",
+          "description": "[Type-C] Squint is a light-weight dialect of ClojureScript with a compiler and standard library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-12T13:08:04Z",
+            "owner": "squint-cljs",
+            "repo": "squint",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RacketScript",
+          "description": "[Type-S] Racket to JavaScript compiler, interop with both Racket and JS ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-02-18T16:57:13Z",
+            "owner": "racketscript",
+            "repo": "racketscript",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen",
+          "description": "[Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-18T14:57:53Z",
+            "owner": "sctb",
+            "repo": "lumen",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslisp",
+          "description": "[Type-A] S-expression syntax for ECMAScript/JavaScript, Lisp-like macros",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LiveScript",
+            "last_commit": "2026-05-28T00:31:38Z",
+            "owner": "anko",
+            "repo": "eslisp",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valtan",
+          "description": "[Type-L] Common Lisp to JavaScript compiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-12-19T15:56:41Z",
+            "owner": "cxxxr",
+            "repo": "valtan",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSLisp",
+          "description": "(source) [Type-L] Lisp-2, similar to Common Lisp, includes GUI library and IDE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2024-08-17T16:42:41Z",
+            "owner": "6502",
+            "repo": "JSLisp",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nu",
+          "description": "[?] interpreted",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2023-07-11T17:10:27Z",
+            "owner": "programming-nu",
+            "repo": "nu",
+            "stars": 2188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreamLisp",
+          "description": "[Type-B] Clojure-inspired, originally based on MAL, added modules, lazy collections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-02-22T21:49:09Z",
+            "owner": "jaseemtan",
+            "repo": "dreamlisp",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Objective-C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hy",
+          "description": "[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T17:41:02Z",
+            "owner": "hylang",
+            "repo": "hy",
+            "stars": 5440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixie",
+          "description": "[Type-B] Clojure inspired, written in RPython, custom GC and JIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-28T14:02:03Z",
+            "owner": "pixie-lang",
+            "repo": "pixie",
+            "stars": 2358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basilisp",
+          "description": "[Type-C] Clojure-compatible, targeting Python3.6+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:35:36Z",
+            "owner": "basilisp-lang",
+            "repo": "basilisp",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hissp",
+          "description": "[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T16:20:38Z",
+            "owner": "gilch",
+            "repo": "hissp",
+            "stars": 449
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Steel",
+          "description": "[Type-S] embedded scheme interpreter in Rust, inspired by Racket",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:00:55Z",
+            "owner": "mattwparas",
+            "repo": "steel",
+            "stars": 2527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ketos",
+          "description": "[Type-B] scripting and extension language for Rust programs, compiled to bytecode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-05-18T18:38:58Z",
+            "owner": "murarth",
+            "repo": "ketos",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rustly",
+          "description": "[Type-C] transpiler, only small subset of Clojure supported",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-03-22T19:36:56Z",
+            "owner": "timothypratley",
+            "repo": "rustly",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gherkin",
+          "description": "[Type-B] (dormant) implemented in Bash, shell interop",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-11-13T18:27:58Z",
+            "owner": "alandipert",
+            "repo": "gherkin",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fleck",
+          "description": "[Type-A] Clojure-like, based on Mal, packaged as single-file Bash script",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-12-18T06:33:46Z",
+            "owner": "chr15m",
+            "repo": "flk",
+            "stars": 506
+          }
+        }
+      ],
+      "title": "Shell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Liz",
+          "description": "[Type-A] general purpose programming language, supports WASM compilation target",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-10-02T12:30:44Z",
+            "owner": "dundalek",
+            "repo": "liz",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Schism",
+          "description": "[Type-S] self-hosting compiler from a subset of R6RS Scheme to WebAssembly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-02T22:41:32Z",
+            "owner": "schism-lang",
+            "repo": "schism",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly Scheme",
+          "description": "[Type-S] partial implementation of R7RS scheme, written using WebAssembly Text format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "WebAssembly",
+            "last_commit": "2023-05-02T06:27:44Z",
+            "owner": "PollRobots",
+            "repo": "scheme",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-wasm",
+          "description": "[Type-A] Clojure-flavored WASM's text format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-11-24T20:55:54Z",
+            "owner": "roman01la",
+            "repo": "clj-wasm",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arboreta WASM",
+          "description": "[?] Common Lisp tooling for WebAssembly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2016-12-14T04:16:17Z",
+            "owner": "Arboreta",
+            "repo": "arboreta-wasm",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "WASM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A list of more Clojure-like languages",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T13:43:17Z",
+            "owner": "chr15m",
+            "repo": "awesome-clojure-likes",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bel",
+          "description": "self-hosted lisp dialect, see also markdown formatted mirror",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bel Clojure",
+              "description": "implementation in Clojure, includes continuations, Java numbers and strings, read blog post",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Clojure",
+                "last_commit": "2022-09-04T14:11:02Z",
+                "owner": "stopachka",
+                "repo": "bel-clojure",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Language::Bel",
+              "description": "implementation of Bel in Perl 5, includes extensive test suite",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Perl",
+                "last_commit": "2026-01-16T15:13:46Z",
+                "owner": "masak",
+                "repo": "bel",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chime",
+              "description": "implementation of Bel written in Haskell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2020-08-24T19:13:14Z",
+                "owner": "jeremyschlatter",
+                "repo": "chime",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Babybel",
+              "description": "Ruby implementation of Bel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Common Lisp",
+                "last_commit": "2020-03-12T04:25:59Z",
+                "owner": "cookrn",
+                "repo": "babybel",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bel-sml",
+              "description": "implementation written in Standard ML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Standard ML",
+                "last_commit": "2021-09-11T09:01:13Z",
+                "owner": "niyarin",
+                "repo": "bel-sml",
+                "stars": 8
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-09-25T21:13:21Z",
+            "owner": "alephyud",
+            "repo": "bel",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLJSL",
+          "description": "subset of Clojure compiled to GLSL for GPU programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-05-08T20:31:42Z",
+            "owner": "IGJoshua",
+            "repo": "cljsl",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "See also list of languages implemented in Lisp",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-29T17:33:36Z",
+            "owner": "vindarel",
+            "repo": "list-of-languages-implemented-in-lisp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Lisps for Microcontrollers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LispBM",
+              "description": "(LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-07T20:57:49Z",
+                "owner": "svenssonjoel",
+                "repo": "lispBM",
+                "stars": 130
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Anything incorrect? Is there an interested project that is missing? Open an issue or PR to request adding a project to the list.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:57.998Z",
+    "original_repository": "dundalek/awesome-lisp-languages",
+    "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
+    "enhanced_repository": "enhansome/enhansome-lisp-languages",
+    "enhanced_repository_description": null,
+    "title": "Awesome Lisp Languages with stars"
+  }
+}
