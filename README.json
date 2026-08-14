@@ -24,7 +24,7 @@
             "last_commit": "2025-10-22T16:42:57Z",
             "owner": "kanaka",
             "repo": "mal",
-            "stars": 10709
+            "stars": 10712
           }
         },
         {
@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scheme",
-            "last_commit": "2026-08-13T20:22:46Z",
+            "last_commit": "2026-08-14T21:19:32Z",
             "owner": "udem-dlteam",
             "repo": "ribbit",
             "stars": 562
@@ -190,7 +190,7 @@
             "last_commit": "2026-03-07T14:00:36Z",
             "owner": "kiselgra",
             "repo": "c-mera",
-            "stars": 451
+            "stars": 452
           }
         },
         {
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:26:05Z",
+            "last_commit": "2026-08-14T20:49:50Z",
             "owner": "nooga",
             "repo": "let-go",
-            "stars": 545
+            "stars": 547
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-12T13:08:04Z",
             "owner": "squint-cljs",
             "repo": "squint",
-            "stars": 893
+            "stars": 895
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-08-12T15:00:55Z",
             "owner": "mattwparas",
             "repo": "steel",
-            "stars": 2528
+            "stars": 2529
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:26:08.714Z",
+    "last_updated": "2026-08-14T23:03:13.611Z",
     "original_repository": "dundalek/awesome-lisp-languages",
     "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
     "enhanced_repository": "enhansome/enhansome-lisp-languages",
