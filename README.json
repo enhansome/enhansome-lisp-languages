@@ -24,7 +24,7 @@
             "last_commit": "2025-10-22T16:42:57Z",
             "owner": "kanaka",
             "repo": "mal",
-            "stars": 10714
+            "stars": 10715
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-08-10T16:21:13Z",
             "owner": "clasp-developers",
             "repo": "clasp",
-            "stars": 2782
+            "stars": 2781
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-15T18:36:41Z",
             "owner": "coalton-lang",
             "repo": "coalton",
-            "stars": 1742
+            "stars": 1741
           }
         }
       ],
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-03T19:51:02Z",
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6006
+            "stars": 6007
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-07-20T15:34:01Z",
             "owner": "clojure",
             "repo": "clojure-clr",
-            "stars": 1652
+            "stars": 1651
           }
         },
         {
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T22:47:10Z",
+            "last_commit": "2026-08-17T21:18:41Z",
             "owner": "nooga",
             "repo": "let-go",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -532,7 +532,7 @@
             "last_commit": "2026-07-31T17:41:02Z",
             "owner": "hylang",
             "repo": "hy",
-            "stars": 5437
+            "stars": 5434
           }
         },
         {
@@ -591,10 +591,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:31:37Z",
+            "last_commit": "2026-08-17T03:34:09Z",
             "owner": "mattwparas",
             "repo": "steel",
-            "stars": 2536
+            "stars": 2535
           }
         },
         {
@@ -608,7 +608,7 @@
             "last_commit": "2021-05-18T18:38:58Z",
             "owner": "murarth",
             "repo": "ketos",
-            "stars": 769
+            "stars": 768
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:00:13.362Z",
+    "last_updated": "2026-08-17T23:02:37.736Z",
     "original_repository": "dundalek/awesome-lisp-languages",
     "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
     "enhanced_repository": "enhansome/enhansome-lisp-languages",
