@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 19966916,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-19T03:46:20Z",
+                "last_commit": "2026-08-19T22:38:11Z",
                 "owner": "clasp-developers",
                 "repo": "clasp",
                 "stars": 2782
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1742
+                "stars": 1743
               }
             }
           ],
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-22T04:13:00Z",
                 "owner": "digego",
                 "repo": "extempore",
-                "stars": 1468
+                "stars": 1469
               }
             },
             {
@@ -253,7 +253,7 @@
                 "archived": false,
                 "id": 91280053,
                 "language": "C",
-                "last_commit": "2026-08-18T00:36:30Z",
+                "last_commit": "2026-08-19T15:34:58Z",
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
                 "stars": 8
@@ -327,10 +327,10 @@
                 "archived": false,
                 "id": 340518175,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:37:35Z",
+                "last_commit": "2026-08-19T22:23:54Z",
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 551
+                "stars": 552
               }
             },
             {
@@ -620,7 +620,7 @@
                 "last_commit": "2026-08-17T03:34:09Z",
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2539
+                "stars": 2540
               }
             },
             {
@@ -946,7 +946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:28.887Z",
+    "last_updated": "2026-08-19T23:04:07.591Z",
     "original_repository": "dundalek/awesome-lisp-languages",
     "original_repository_id": 223775486,
     "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
