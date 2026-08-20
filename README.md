@@ -68,8 +68,8 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Multi Lang
 
-* [Mal](https://github.com/kanaka/mal) ⭐ 10,715 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
-* [Lux](https://github.com/LuxLang/lux) ⭐ 1,740 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-05 \[Type-B] functional, statically-typed Lisp that will run on several platforms
+* [Mal](https://github.com/kanaka/mal) ⭐ 10,717 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+* [Lux](https://github.com/LuxLang/lux) ⭐ 1,740 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-20 \[Type-B] functional, statically-typed Lisp that will run on several platforms
 * [Wax](https://github.com/LingDong-/wax) ⭐ 854 | 🐛 15 | 🌐 C | 📅 2025-03-03 \[Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 * [Ribbit](https://github.com/udem-dlteam/ribbit) ⭐ 562 | 🐛 20 | 🌐 Scheme | 📅 2026-08-16 \[Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme
 * [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) ⭐ 56 | 🐛 2 | 🌐 Common Lisp | 📅 2021-03-14 minimal lisp with 42 implementations
@@ -79,8 +79,8 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Common Lisp
 
-* [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,782 | 🐛 170 | 🌐 Common Lisp | 📅 2026-08-19 \[Type-L] compiled using LLVM, seamless integration with existing libraries
-* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,743 | 🐛 194 | 🌐 Common Lisp | 📅 2026-08-15 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
+* [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,782 | 🐛 175 | 🌐 Common Lisp | 📅 2026-08-20 \[Type-L] compiled using LLVM, seamless integration with existing libraries
+* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,744 | 🐛 194 | 🌐 Common Lisp | 📅 2026-08-15 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
 * [SBCL](http://www.sbcl.org) \[Type-L] high performance native code compiler, native threading support, type inference engine
 * [CLISP](https://clisp.sourceforge.io/) \[Type-L] uses bytecode compiler, easily portable
 * [Clozure CL](https://ccl.clozure.com/) \[Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
@@ -100,10 +100,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### C/C++
 
-* [Carp](https://github.com/carp-lang/Carp) ⭐ 6,010 | 🐛 140 | 🌐 Haskell | 📅 2026-08-03 \[Type-B] statically typed, no GC (Rust-like borrow checking)
-* [FemtoLisp](https://github.com/JeffBezanson/femtolisp) ⭐ 1,719 | 🐛 21 | 🌐 Scheme | 📅 2020-02-26 \[Type-S] scheme-like lisp, powers the compiler of the Julia language
-* [Extempore](https://github.com/digego/extempore) ⭐ 1,469 | 🐛 18 | 🌐 C | 📅 2026-07-22 \[Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
-* [Dale](https://github.com/tomhrr/dale) ⭐ 1,046 | 🐛 28 | 🌐 C++ | 📅 2025-04-20 \[Type-B] Lisp-flavoured C with additional features, no GC, LLVM backend
+* [Carp](https://github.com/carp-lang/Carp) ⭐ 6,010 | 🐛 141 | 🌐 Haskell | 📅 2026-08-03 \[Type-B] statically typed, no GC (Rust-like borrow checking)
+* [FemtoLisp](https://github.com/JeffBezanson/femtolisp) ⭐ 1,720 | 🐛 21 | 🌐 Scheme | 📅 2020-02-26 \[Type-S] scheme-like lisp, powers the compiler of the Julia language
+* [Extempore](https://github.com/digego/extempore) ⭐ 1,462 | 🐛 18 | 🌐 C | 📅 2026-07-22 \[Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
+* [Dale](https://github.com/tomhrr/dale) ⭐ 1,045 | 🐛 28 | 🌐 C++ | 📅 2025-04-20 \[Type-B] Lisp-flavoured C with additional features, no GC, LLVM backend
 * [C-Mera](https://github.com/kiselgra/c-mera) ⭐ 452 | 🐛 26 | 🌐 Common Lisp | 📅 2026-03-07 \[Type-A] also includes extensions to generate code to run on CUDA, GLSL
 * [Liz](https://github.com/dundalek/liz) ⭐ 291 | 🐛 0 | 🌐 Clojure | 📅 2021-10-02 \[Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
 * [jo\_clojure](https://github.com/Zelex/jo_clojure) ⭐ 153 | 🐛 1 | 🌐 C++ | 📅 2025-04-26 \[Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM
@@ -120,7 +120,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### C\#
 
-* [Clojure CLR](https://github.com/clojure/clojure-clr) ⭐ 1,651 | 🐛 0 | 🌐 C# | 📅 2026-07-20 \[Type-C] great for game development with arcadia and unity
+* [Clojure CLR](https://github.com/clojure/clojure-clr) ⭐ 1,652 | 🐛 0 | 🌐 C# | 📅 2026-07-20 \[Type-C] great for game development with arcadia and unity
 * [RainLisp](https://github.com/chr1st0scli/RainLisp) ⭐ 44 | 🐛 1 | 🌐 C# | 📅 2026-08-01 \[Type-B] inspired by Scheme, interpreted, can be used as DSL integrating with .NET
 
 ### Dart
@@ -140,7 +140,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Go
 
 * [Zygo](https://github.com/glycerine/zygomys) ⭐ 1,787 | 🐛 8 | 🌐 Go | 📅 2026-06-30 \[Type-B] embedable, call into native Go using reflection, optional infix syntax
-* [let-go](https://github.com/nooga/let-go) ⭐ 552 | 🐛 137 | 🌐 Go | 📅 2026-08-19 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
+* [let-go](https://github.com/nooga/let-go) ⭐ 552 | 🐛 138 | 🌐 Go | 📅 2026-08-20 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
 * [ZYLISP](https://github.com/zylisp/zylisp) ⚠️ Archived \[Type-A] simple Lisp that compiles to Go (source or bytecode)
 * [Joker](https://joker-lang.org/) \[Type-C] interpreter, linter, great for scripting, Go interop is very limited
 * [Slick](https://github.com/pcostanza/slick) \[Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
@@ -157,10 +157,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### JavaScript
 
 * [Wisp](https://github.com/Gozala/wisp) ⭐ 986 | 🐛 59 | 🌐 wisp | 📅 2021-02-07 \[Type-C] Clojure-like, has protocols, no persistent data structures
-* [Squint](https://github.com/squint-cljs/squint) ⭐ 895 | 🐛 20 | 🌐 Clojure | 📅 2026-08-12 \[Type-C] Squint is a light-weight dialect of ClojureScript with a compiler and standard library
-* [RacketScript](https://github.com/racketscript/racketscript) ⭐ 738 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 \[Type-S] Racket to JavaScript compiler, interop with both Racket and JS ecosystem
+* [Squint](https://github.com/squint-cljs/squint) ⭐ 898 | 🐛 20 | 🌐 Clojure | 📅 2026-08-12 \[Type-C] Squint is a light-weight dialect of ClojureScript with a compiler and standard library
+* [RacketScript](https://github.com/racketscript/racketscript) ⭐ 736 | 🐛 81 | 🌐 Racket | 📅 2026-02-18 \[Type-S] Racket to JavaScript compiler, interop with both Racket and JS ecosystem
 * [Lumen](https://github.com/sctb/lumen) ⭐ 570 | 🐛 31 | 🌐 JavaScript | 📅 2024-10-18 \[Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
-* [eslisp](https://github.com/anko/eslisp) ⭐ 541 | 🐛 21 | 🌐 LiveScript | 📅 2026-05-28 \[Type-A] S-expression syntax for ECMAScript/JavaScript, Lisp-like macros
+* [eslisp](https://github.com/anko/eslisp) ⭐ 538 | 🐛 21 | 🌐 LiveScript | 📅 2026-05-28 \[Type-A] S-expression syntax for ECMAScript/JavaScript, Lisp-like macros
 * [Valtan](https://github.com/cxxxr/valtan) ⭐ 271 | 🐛 4 | 🌐 Common Lisp | 📅 2025-12-19 \[Type-L] Common Lisp to JavaScript compiler
 * [JSLisp](https://www.jslisp.org) ([source](https://github.com/6502/JSLisp) ⭐ 43 | 🐛 0 | 🌐 Common Lisp | 📅 2024-08-17) \[Type-L] Lisp-2, similar to Common Lisp, includes GUI library and IDE
 * [BiwaScheme](https://www.biwascheme.org/) \[Type-S] compact Scheme written in JavaScript, integrates well with web browsers and Node
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,540 | 🐛 79 | 🌐 Rust | 📅 2026-08-17 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,541 | 🐛 79 | 🌐 Rust | 📅 2026-08-20 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 768 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 167 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -216,7 +216,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Shell
 
 * [Gherkin](https://github.com/alandipert/gherkin) ⚠️ Archived \[Type-B] (dormant) implemented in Bash, shell interop
-* [Fleck](https://github.com/chr15m/flk/) ⭐ 507 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,715 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
+* [Fleck](https://github.com/chr15m/flk/) ⭐ 507 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,717 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
 
 ### VHDL
 
@@ -236,7 +236,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 * A list of more [Clojure-like languages](https://github.com/chr15m/awesome-clojure-likes) ⭐ 266 | 🐛 2 | 🌐 Shell | 📅 2026-08-12.
 * [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, see also markdown formatted [mirror](https://github.com/alephyud/bel) ⭐ 52 | 🐛 1 | 🌐 Common Lisp | 📅 2022-09-25
   * [Bel Clojure](https://github.com/stopachka/bel-clojure) ⭐ 48 | 🐛 1 | 🌐 Clojure | 📅 2022-09-04 - implementation in Clojure, includes continuations, Java numbers and strings, read [blog post](https://stopa.io/post/290)
-  * [Language::Bel](https://github.com/masak/bel) ⭐ 28 | 🐛 80 | 🌐 Perl | 📅 2026-01-16 - implementation of Bel in Perl 5, includes extensive test suite
+  * [Language::Bel](https://github.com/masak/bel) ⭐ 27 | 🐛 80 | 🌐 Perl | 📅 2026-01-16 - implementation of Bel in Perl 5, includes extensive test suite
   * [Chime](https://github.com/jeremyschlatter/chime/) ⭐ 19 | 🐛 12 | 🌐 Haskell | 📅 2020-08-24 - implementation of Bel written in Haskell
   * [Babybel](https://github.com/cookrn/babybel) ⭐ 8 | 🐛 3 | 🌐 Common Lisp | 📅 2020-03-12 - Ruby implementation of Bel
   * [Bel-sml](https://github.com/niyarin/bel-sml) ⭐ 8 | 🐛 0 | 🌐 Standard ML | 📅 2021-09-11 - implementation written in Standard ML
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
