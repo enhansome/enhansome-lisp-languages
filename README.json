@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10717
+                "stars": 10718
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-03-03T06:01:28Z",
                 "owner": "LingDong-",
                 "repo": "wax",
-                "stars": 854
+                "stars": 855
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1744
+                "stars": 1745
               }
             }
           ],
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-03T19:51:02Z",
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6010
+                "stars": 6012
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-07-20T15:34:01Z",
                 "owner": "clojure",
                 "repo": "clojure-clr",
-                "stars": 1652
+                "stars": 1653
               }
             },
             {
@@ -327,10 +327,10 @@
                 "archived": false,
                 "id": 340518175,
                 "language": "Go",
-                "last_commit": "2026-08-20T22:47:44Z",
+                "last_commit": "2026-08-21T12:44:50Z",
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 552
+                "stars": 553
               }
             },
             {
@@ -620,7 +620,7 @@
                 "last_commit": "2026-08-20T04:41:41Z",
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2541
+                "stars": 2542
               }
             },
             {
@@ -946,7 +946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:10:51.188Z",
+    "last_updated": "2026-08-21T23:03:28.615Z",
     "original_repository": "dundalek/awesome-lisp-languages",
     "original_repository_id": 223775486,
     "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
