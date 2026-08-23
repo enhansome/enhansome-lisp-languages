@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10719
+                "stars": 10720
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1745
+                "stars": 1747
               }
             }
           ],
@@ -196,7 +196,7 @@
                 "last_commit": "2026-03-07T14:00:36Z",
                 "owner": "kiselgra",
                 "repo": "c-mera",
-                "stars": 452
+                "stars": 453
               }
             },
             {
@@ -253,7 +253,7 @@
                 "archived": false,
                 "id": 91280053,
                 "language": "C",
-                "last_commit": "2026-08-22T21:30:54Z",
+                "last_commit": "2026-08-23T12:52:06Z",
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
                 "stars": 8
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 340518175,
                 "language": "Go",
-                "last_commit": "2026-08-21T12:44:50Z",
+                "last_commit": "2026-08-23T21:27:45Z",
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 553
@@ -617,7 +617,7 @@
                 "archived": false,
                 "id": 241949362,
                 "language": "Rust",
-                "last_commit": "2026-08-20T04:41:41Z",
+                "last_commit": "2026-08-23T20:20:45Z",
                 "owner": "mattwparas",
                 "repo": "steel",
                 "stars": 2542
@@ -635,7 +635,7 @@
                 "last_commit": "2021-05-18T18:38:58Z",
                 "owner": "murarth",
                 "repo": "ketos",
-                "stars": 768
+                "stars": 767
               }
             },
             {
@@ -933,7 +933,7 @@
                 "archived": false,
                 "id": 152950119,
                 "language": "C",
-                "last_commit": "2026-08-19T11:55:22Z",
+                "last_commit": "2026-08-23T11:51:37Z",
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
                 "stars": 132
@@ -946,7 +946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:01:51.263Z",
+    "last_updated": "2026-08-23T23:01:21.685Z",
     "original_repository": "dundalek/awesome-lisp-languages",
     "original_repository_id": 223775486,
     "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
