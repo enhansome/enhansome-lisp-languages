@@ -68,7 +68,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Multi Lang
 
-* [Mal](https://github.com/kanaka/mal) ⭐ 10,721 | 🐛 50 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+* [Mal](https://github.com/kanaka/mal) ⭐ 10,721 | 🐛 51 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 * [Lux](https://github.com/LuxLang/lux) ⭐ 1,741 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-26 \[Type-B] functional, statically-typed Lisp that will run on several platforms
 * [Wax](https://github.com/LingDong-/wax) ⭐ 855 | 🐛 15 | 🌐 C | 📅 2025-03-03 \[Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 * [Ribbit](https://github.com/udem-dlteam/ribbit) ⭐ 562 | 🐛 20 | 🌐 Scheme | 📅 2026-08-16 \[Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,546 | 🐛 77 | 🌐 Rust | 📅 2026-08-27 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,547 | 🐛 77 | 🌐 Rust | 📅 2026-08-27 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 767 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 167 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -216,7 +216,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Shell
 
 * [Gherkin](https://github.com/alandipert/gherkin) ⚠️ Archived \[Type-B] (dormant) implemented in Bash, shell interop
-* [Fleck](https://github.com/chr15m/flk/) ⭐ 507 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,721 | 🐛 50 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
+* [Fleck](https://github.com/chr15m/flk/) ⭐ 507 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,721 | 🐛 51 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
 
 ### VHDL
 

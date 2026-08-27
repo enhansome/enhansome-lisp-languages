@@ -749,10 +749,10 @@
                 "archived": false,
                 "id": 241949362,
                 "language": "Rust",
-                "last_commit": "2026-08-27T03:59:34Z",
+                "last_commit": "2026-08-27T05:33:15Z",
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2546
+                "stars": 2547
               }
             },
             {
@@ -1100,9 +1100,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:04:50.897Z",
-    "original_repository": "dundalek/awesome-lisp-languages",
-    "original_repository_id": 223775486,
+    "last_updated": "2026-08-27T11:48:23.101Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 223775486,
+      "language": null,
+      "last_commit": "2026-06-25T16:32:15Z",
+      "owner": "dundalek",
+      "repo": "awesome-lisp-languages",
+      "stars": 879
+    },
     "original_repository_sha": "bb544785402a1f5b99d848494c4a7b163c825653",
     "enhanced_repository": "enhansome/enhansome-lisp-languages",
     "enhanced_repository_description": null,
