@@ -21,7 +21,7 @@
                 "open_issues": 53,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10722,
+                "stars": 10723,
                 "topics": [
                   "bash",
                   "c",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:54:54.417Z",
+    "last_updated": "2026-08-29T04:35:14.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
