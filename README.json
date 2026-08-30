@@ -21,7 +21,7 @@
                 "open_issues": 53,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10723,
+                "stars": 10724,
                 "topics": [
                   "bash",
                   "c",
@@ -210,11 +210,11 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-08-15T18:36:41Z",
+                "last_commit": "2026-08-29T10:15:47Z",
                 "open_issues": 194,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1752,
+                "stars": 1753,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-27T13:35:30Z",
+                "last_commit": "2026-08-29T23:01:49Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -530,7 +530,7 @@
                 "open_issues": 123,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
-                "stars": 1636,
+                "stars": 1637,
                 "topics": [
                   "clojure",
                   "dart",
@@ -615,11 +615,11 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T22:30:42Z",
-                "open_issues": 148,
+                "last_commit": "2026-08-29T21:37:28Z",
+                "open_issues": 146,
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 553,
+                "stars": 554,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -739,7 +739,7 @@
                 "open_issues": 59,
                 "owner": "wisp-lang",
                 "repo": "wisp",
-                "stars": 986,
+                "stars": 985,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1042,7 +1042,7 @@
                 "open_issues": 9,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5436,
+                "stars": 5435,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1192,11 +1192,11 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T05:33:15Z",
-                "open_issues": 79,
+                "last_commit": "2026-08-29T18:20:02Z",
+                "open_issues": 77,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2555,
+                "stars": 2557,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1660,7 +1660,7 @@
             "open_issues": 2,
             "owner": "vindarel",
             "repo": "list-of-languages-implemented-in-lisp",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1682,7 +1682,7 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T19:58:33Z",
+                "last_commit": "2026-08-29T15:07:06Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:14.944Z",
+    "last_updated": "2026-08-30T00:46:25.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 879,
+      "stars": 880,
       "topics": [
         "awesome",
         "awesome-list",
