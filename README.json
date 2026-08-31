@@ -185,8 +185,8 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-08-24T19:40:08Z",
-                "open_issues": 175,
+                "last_commit": "2026-08-30T19:45:03Z",
+                "open_issues": 176,
                 "owner": "clasp-developers",
                 "repo": "clasp",
                 "stars": 2782,
@@ -214,7 +214,7 @@
                 "open_issues": 194,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1753,
+                "stars": 1754,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -246,7 +246,7 @@
                 "open_issues": 140,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6018,
+                "stars": 6020,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -615,7 +615,7 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T21:37:28Z",
+                "last_commit": "2026-08-30T16:09:43Z",
                 "open_issues": 146,
                 "owner": "nooga",
                 "repo": "let-go",
@@ -739,7 +739,7 @@
                 "open_issues": 59,
                 "owner": "wisp-lang",
                 "repo": "wisp",
-                "stars": 985,
+                "stars": 986,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1088,7 +1088,7 @@
                 "language": "Python",
                 "license": "EPL-1.0",
                 "last_commit": "2026-08-02T02:35:36Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "basilisp-lang",
                 "repo": "basilisp",
                 "stars": 478,
@@ -1196,7 +1196,7 @@
                 "open_issues": 77,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2557,
+                "stars": 2560,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:46:25.745Z",
+    "last_updated": "2026-08-31T00:54:07.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
