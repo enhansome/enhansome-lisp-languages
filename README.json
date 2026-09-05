@@ -99,7 +99,7 @@
                 "open_issues": 15,
                 "owner": "LingDong-",
                 "repo": "wax",
-                "stars": 856,
+                "stars": 857,
                 "topics": [
                   "c99",
                   "compiler",
@@ -246,7 +246,7 @@
                 "open_issues": 144,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6029,
+                "stars": 6030,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
-                "stars": 1653,
+                "stars": 1654,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:46:48Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-04T20:53:29Z",
+                "open_issues": 136,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 554,
@@ -1112,8 +1112,8 @@
                 "id": 185083532,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-06T16:20:38Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-04T18:05:57Z",
+                "open_issues": 31,
                 "owner": "gilch",
                 "repo": "hissp",
                 "stars": 450,
@@ -1192,11 +1192,11 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T18:20:02Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-04T14:58:40Z",
+                "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2565,
+                "stars": 2569,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1682,7 +1682,7 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T16:35:15Z",
+                "last_commit": "2026-09-04T17:26:09Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:27:27.703Z",
+    "last_updated": "2026-09-05T00:24:54.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
