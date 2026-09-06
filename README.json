@@ -189,7 +189,7 @@
                 "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2782,
+                "stars": 2783,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -243,10 +243,10 @@
                 "language": "Haskell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T18:42:47Z",
-                "open_issues": 144,
+                "open_issues": 145,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6030,
+                "stars": 6031,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-03T00:38:41Z",
+                "last_commit": "2026-09-05T19:26:05Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -530,7 +530,7 @@
                 "open_issues": 124,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
-                "stars": 1639,
+                "stars": 1640,
                 "topics": [
                   "clojure",
                   "dart",
@@ -616,7 +616,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T20:53:29Z",
-                "open_issues": 136,
+                "open_issues": 137,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 554,
@@ -760,7 +760,7 @@
                 "open_issues": 22,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1042,7 +1042,7 @@
                 "open_issues": 9,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5435,
+                "stars": 5436,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1196,7 +1196,7 @@
                 "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2569,
+                "stars": 2570,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1682,11 +1682,11 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T17:26:09Z",
+                "last_commit": "2026-09-05T06:42:02Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:24:54.239Z",
+    "last_updated": "2026-09-06T00:14:40.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 880,
+      "stars": 881,
       "topics": [
         "awesome",
         "awesome-list",
