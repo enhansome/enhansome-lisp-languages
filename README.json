@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-03T02:50:05Z",
+                "last_commit": "2026-09-08T16:19:04Z",
                 "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2783,
+                "stars": 2782,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -214,7 +214,7 @@
                 "open_issues": 188,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1753,
+                "stars": 1754,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -299,7 +299,7 @@
                 "open_issues": 18,
                 "owner": "digego",
                 "repo": "extempore",
-                "stars": 1465,
+                "stars": 1464,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "kiselgra",
                 "repo": "c-mera",
-                "stars": 453,
+                "stars": 451,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-05T19:26:05Z",
+                "last_commit": "2026-09-08T14:13:57Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -527,7 +527,7 @@
                 "language": "Clojure",
                 "license": null,
                 "last_commit": "2026-08-24T12:57:41Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
                 "stars": 1641,
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-07T21:30:08Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-08T21:59:53Z",
+                "open_issues": 150,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 555,
@@ -695,7 +695,7 @@
                 "id": 140467278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-16T17:05:50Z",
+                "last_commit": "2026-09-08T19:22:30Z",
                 "open_issues": 0,
                 "owner": "jlangch",
                 "repo": "venice",
@@ -1070,7 +1070,7 @@
                 "open_issues": 55,
                 "owner": "pixie-lang",
                 "repo": "pixie",
-                "stars": 2358,
+                "stars": 2357,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1196,7 +1196,7 @@
                 "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2570,
+                "stars": 2571,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:43:26.200Z",
+    "last_updated": "2026-09-09T00:41:46.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 880,
+      "stars": 881,
       "topics": [
         "awesome",
         "awesome-list",
