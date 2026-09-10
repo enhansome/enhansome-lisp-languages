@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10727,
+                "stars": 10728,
                 "topics": [
                   "bash",
                   "c",
@@ -185,8 +185,8 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-08T16:19:04Z",
-                "open_issues": 174,
+                "last_commit": "2026-09-09T00:47:13Z",
+                "open_issues": 179,
                 "owner": "clasp-developers",
                 "repo": "clasp",
                 "stars": 2782,
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-08T14:13:57Z",
+                "last_commit": "2026-09-10T00:12:35Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-09-03T18:08:16Z",
+                "last_commit": "2026-09-09T17:42:27Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-08T21:59:53Z",
-                "open_issues": 150,
+                "last_commit": "2026-09-09T21:28:26Z",
+                "open_issues": 154,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 555,
@@ -760,7 +760,7 @@
                 "open_issues": 22,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -963,7 +963,7 @@
                 "open_issues": 19,
                 "owner": "programming-nu",
                 "repo": "nu",
-                "stars": 2187,
+                "stars": 2186,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1192,11 +1192,11 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T18:06:43Z",
+                "last_commit": "2026-09-09T03:15:39Z",
                 "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2571,
+                "stars": 2572,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:41:46.759Z",
+    "last_updated": "2026-09-10T00:38:55.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 881,
+      "stars": 882,
       "topics": [
         "awesome",
         "awesome-list",
