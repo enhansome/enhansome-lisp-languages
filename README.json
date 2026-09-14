@@ -21,7 +21,7 @@
                 "open_issues": 55,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10729,
+                "stars": 10730,
                 "topics": [
                   "bash",
                   "c",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-10T20:06:00Z",
-                "open_issues": 179,
+                "last_commit": "2026-09-13T19:12:22Z",
+                "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2782,
+                "stars": 2781,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -214,7 +214,7 @@
                 "open_issues": 190,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1756,
+                "stars": 1757,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -243,10 +243,10 @@
                 "language": "Haskell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T11:25:31Z",
-                "open_issues": 144,
+                "open_issues": 147,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6036,
+                "stars": 6041,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -320,7 +320,7 @@
                 "open_issues": 28,
                 "owner": "tomhrr",
                 "repo": "dale",
-                "stars": 1047,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
-                "stars": 1655,
+                "stars": 1654,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-12T22:49:13Z",
-                "open_issues": 151,
+                "last_commit": "2026-09-13T22:23:53Z",
+                "open_issues": 147,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 555,
@@ -1042,7 +1042,7 @@
                 "open_issues": 9,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5437,
+                "stars": 5438,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:26:30.249Z",
+    "last_updated": "2026-09-14T00:29:19.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
