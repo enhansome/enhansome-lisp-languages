@@ -21,7 +21,7 @@
                 "open_issues": 55,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10730,
+                "stars": 10732,
                 "topics": [
                   "bash",
                   "c",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-13T19:12:22Z",
+                "last_commit": "2026-09-15T00:39:50Z",
                 "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2781,
+                "stars": 2782,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -243,10 +243,10 @@
                 "language": "Haskell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T11:25:31Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6041,
+                "stars": 6043,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "kiselgra",
                 "repo": "c-mera",
-                "stars": 451,
+                "stars": 450,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,11 +615,11 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-13T22:23:53Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-15T00:11:51Z",
+                "open_issues": 150,
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 555,
+                "stars": 556,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -695,11 +695,11 @@
                 "id": 140467278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T19:22:30Z",
+                "last_commit": "2026-09-14T13:29:54Z",
                 "open_issues": 0,
                 "owner": "jlangch",
                 "repo": "venice",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "clojure",
                   "devops",
@@ -1196,7 +1196,7 @@
                 "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2573,
+                "stars": 2575,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:29:19.674Z",
+    "last_updated": "2026-09-15T00:58:03.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 882,
+      "stars": 883,
       "topics": [
         "awesome",
         "awesome-list",
