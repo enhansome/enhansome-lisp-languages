@@ -21,7 +21,7 @@
                 "open_issues": 55,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10733,
+                "stars": 10736,
                 "topics": [
                   "bash",
                   "c",
@@ -127,7 +127,7 @@
                 "open_issues": 22,
                 "owner": "udem-dlteam",
                 "repo": "ribbit",
-                "stars": 565,
+                "stars": 566,
                 "topics": [
                   "compiler",
                   "embeddable-language",
@@ -185,8 +185,8 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-19T19:03:40Z",
-                "open_issues": 173,
+                "last_commit": "2026-09-20T22:26:13Z",
+                "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
                 "stars": 2780,
@@ -214,7 +214,7 @@
                 "open_issues": 190,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1758,
+                "stars": 1759,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -278,7 +278,7 @@
                 "open_issues": 21,
                 "owner": "JeffBezanson",
                 "repo": "femtolisp",
-                "stars": 1722,
+                "stars": 1723,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,11 +615,11 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-20T00:11:12Z",
-                "open_issues": 152,
+                "last_commit": "2026-09-20T22:12:26Z",
+                "open_issues": 165,
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 557,
+                "stars": 560,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -963,7 +963,7 @@
                 "open_issues": 19,
                 "owner": "programming-nu",
                 "repo": "nu",
-                "stars": 2186,
+                "stars": 2185,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1070,7 +1070,7 @@
                 "open_issues": 55,
                 "owner": "pixie-lang",
                 "repo": "pixie",
-                "stars": 2356,
+                "stars": 2357,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1192,7 +1192,7 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T04:54:29Z",
+                "last_commit": "2026-09-20T23:32:28Z",
                 "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
@@ -1686,7 +1686,7 @@
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 146,
+                "stars": 152,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:26:25.291Z",
+    "last_updated": "2026-09-21T00:33:40.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
