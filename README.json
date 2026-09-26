@@ -127,7 +127,7 @@
                 "open_issues": 22,
                 "owner": "udem-dlteam",
                 "repo": "ribbit",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "compiler",
                   "embeddable-language",
@@ -185,7 +185,7 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-24T23:57:05Z",
+                "last_commit": "2026-09-25T21:02:50Z",
                 "open_issues": 173,
                 "owner": "clasp-developers",
                 "repo": "clasp",
@@ -246,7 +246,7 @@
                 "open_issues": 149,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6050,
+                "stars": 6052,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -615,7 +615,7 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T21:27:11Z",
+                "last_commit": "2026-09-25T20:47:01Z",
                 "open_issues": 181,
                 "owner": "nooga",
                 "repo": "let-go",
@@ -756,11 +756,11 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-23T21:45:59Z",
+                "last_commit": "2026-09-25T09:18:41Z",
                 "open_issues": 21,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1039,7 +1039,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-31T17:41:02Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "hylang",
                 "repo": "hy",
                 "stars": 5438,
@@ -1196,7 +1196,7 @@
                 "open_issues": 79,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2589,
+                "stars": 2590,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1226,7 +1226,7 @@
                 "open_issues": 17,
                 "owner": "murarth",
                 "repo": "ketos",
-                "stars": 769,
+                "stars": 768,
                 "topics": [
                   "lisp",
                   "rust",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:55:08.838Z",
+    "last_updated": "2026-09-26T00:56:20.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
