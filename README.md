@@ -80,7 +80,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Common Lisp
 
 * [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,782 | 🐛 173 | 🌐 Common Lisp | 📅 2026-09-25 \[Type-L] compiled using LLVM, seamless integration with existing libraries
-* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,764 | 🐛 190 | 🌐 Common Lisp | 📅 2026-09-15 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
+* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,765 | 🐛 190 | 🌐 Common Lisp | 📅 2026-09-15 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
 * [SBCL](http://www.sbcl.org) \[Type-L] high performance native code compiler, native threading support, type inference engine
 * [CLISP](https://clisp.sourceforge.io/) \[Type-L] uses bytecode compiler, easily portable
 * [Clozure CL](https://ccl.clozure.com/) \[Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
@@ -125,7 +125,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Dart
 
-* [ClojureDart](https://github.com/Tensegritics/ClojureDart) ⭐ 1,644 | 🐛 125 | 🌐 Clojure | 📅 2026-09-18 \[Type-C] clojure dialect for Flutter and Dart
+* [ClojureDart](https://github.com/Tensegritics/ClojureDart) ⭐ 1,646 | 🐛 125 | 🌐 Clojure | 📅 2026-09-18 \[Type-C] clojure dialect for Flutter and Dart
 
 ### Erlang
 
@@ -139,8 +139,8 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Go
 
-* [Zygo](https://github.com/glycerine/zygomys) ⭐ 1,790 | 🐛 8 | 🌐 Go | 📅 2026-06-30 \[Type-B] embedable, call into native Go using reflection, optional infix syntax
-* [let-go](https://github.com/nooga/let-go) ⭐ 566 | 🐛 173 | 🌐 Go | 📅 2026-09-26 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
+* [Zygo](https://github.com/glycerine/zygomys) ⭐ 1,791 | 🐛 8 | 🌐 Go | 📅 2026-06-30 \[Type-B] embedable, call into native Go using reflection, optional infix syntax
+* [let-go](https://github.com/nooga/let-go) ⭐ 566 | 🐛 168 | 🌐 Go | 📅 2026-09-28 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
 * [ZYLISP](https://github.com/zylisp/zylisp) ⚠️ Archived \[Type-A] simple Lisp that compiles to Go (source or bytecode)
 * [Joker](https://joker-lang.org/) \[Type-C] interpreter, linter, great for scripting, Go interop is very limited
 * [Slick](https://github.com/pcostanza/slick) \[Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,591 | 🐛 80 | 🌐 Rust | 📅 2026-09-24 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,592 | 🐛 80 | 🌐 Rust | 📅 2026-09-28 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 768 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 167 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -243,7 +243,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 * [CLJSL](https://github.com/IGJoshua/cljsl) ⭐ 24 | 🐛 0 | 🌐 Clojure | 📅 2022-05-08 - subset of Clojure compiled to GLSL for GPU programming
 * See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp) ⭐ 19 | 🐛 2 | 📅 2020-01-29.
 * Lisps for Microcontrollers
-  * [LispBM](https://github.com/svenssonjoel/lispBM) ⭐ 157 | 🐛 3 | 🌐 C | 📅 2026-09-21 (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
+  * [LispBM](https://github.com/svenssonjoel/lispBM) ⭐ 157 | 🐛 3 | 🌐 C | 📅 2026-09-27 (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
   * [uLisp](http://www.ulisp.com/) - fits into 2 Kbytes of RAM, embedded syntax for assembly
 * Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 * [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
