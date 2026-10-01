@@ -63,7 +63,7 @@
                 "open_issues": 0,
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "clojure",
                   "functional-languages",
@@ -210,11 +210,11 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-09-15T14:54:08Z",
-                "open_issues": 190,
+                "last_commit": "2026-09-30T06:17:32Z",
+                "open_issues": 192,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1765,
+                "stars": 1767,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -243,10 +243,10 @@
                 "language": "Haskell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T11:25:31Z",
-                "open_issues": 149,
+                "open_issues": 151,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6057,
+                "stars": 6058,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -362,7 +362,7 @@
                 "open_issues": 0,
                 "owner": "dundalek",
                 "repo": "liz",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-09-29T19:40:57Z",
+                "last_commit": "2026-09-30T04:07:45Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -564,7 +564,7 @@
                 "open_issues": 11,
                 "owner": "clojerl",
                 "repo": "clojerl",
-                "stars": 1714,
+                "stars": 1715,
                 "topics": [
                   "beam",
                   "clojure",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-29T23:49:37Z",
-                "open_issues": 171,
+                "last_commit": "2026-10-01T01:13:23Z",
+                "open_issues": 164,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 566,
@@ -1196,7 +1196,7 @@
                 "open_issues": 82,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2595,
+                "stars": 2597,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1356,7 +1356,7 @@
                 "open_issues": 0,
                 "owner": "dundalek",
                 "repo": "liz",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -1384,7 +1384,7 @@
                 "open_issues": 2,
                 "owner": "schism-lang",
                 "repo": "schism",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:38:33.903Z",
+    "last_updated": "2026-10-01T01:36:25.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
