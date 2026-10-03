@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-02T01:55:16Z",
+                "last_commit": "2026-10-03T02:53:13Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:34:33Z",
-                "open_issues": 179,
+                "last_commit": "2026-10-03T04:13:18Z",
+                "open_issues": 180,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 566,
@@ -1472,7 +1472,7 @@
         {
           "node_type": "item",
           "title": "A list of more Clojure-like languages",
-          "description": ".",
+          "description": "chr15m/awesome-clojure-likes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1647,7 +1647,7 @@
         {
           "node_type": "item",
           "title": "See also list of languages implemented in Lisp",
-          "description": ".",
+          "description": "vindarel/list-of-languages-implemented-in-lisp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:28:56.167Z",
+    "last_updated": "2026-10-03T04:54:19.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
