@@ -125,7 +125,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Dart
 
-* [ClojureDart](https://github.com/Tensegritics/ClojureDart) ⭐ 1,648 | 🐛 125 | 🌐 Clojure | 📅 2026-10-05 \[Type-C] clojure dialect for Flutter and Dart
+* [ClojureDart](https://github.com/Tensegritics/ClojureDart) ⭐ 1,648 | 🐛 125 | 🌐 Clojure | 📅 2026-10-06 \[Type-C] clojure dialect for Flutter and Dart
 
 ### Erlang
 
@@ -140,7 +140,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Go
 
 * [Zygo](https://github.com/glycerine/zygomys) ⭐ 1,790 | 🐛 8 | 🌐 Go | 📅 2026-06-30 \[Type-B] embedable, call into native Go using reflection, optional infix syntax
-* [let-go](https://github.com/nooga/let-go) ⭐ 568 | 🐛 178 | 🌐 Go | 📅 2026-10-05 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
+* [let-go](https://github.com/nooga/let-go) ⭐ 568 | 🐛 182 | 🌐 Go | 📅 2026-10-06 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
 * [ZYLISP](https://github.com/zylisp/zylisp) ⚠️ Archived \[Type-A] simple Lisp that compiles to Go (source or bytecode)
 * [Joker](https://joker-lang.org/) \[Type-C] interpreter, linter, great for scripting, Go interop is very limited
 * [Slick](https://github.com/pcostanza/slick) \[Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
@@ -196,7 +196,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Python
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,437 | 🐛 10 | 🌐 Python | 📅 2026-07-31 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
+* [Hy](https://github.com/hylang/hy) ⭐ 5,438 | 🐛 10 | 🌐 Python | 📅 2026-07-31 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 * [Pixie](https://github.com/pixie-lang/pixie) ⭐ 2,357 | 🐛 55 | 🌐 Python | 📅 2020-10-28 \[Type-B] Clojure inspired, written in RPython, custom GC and JIT
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 480 | 🐛 47 | 🌐 Python | 📅 2026-08-02 \[Type-C] Clojure-compatible, targeting Python3.6+
 * [Hissp](https://github.com/gilch/hissp) ⭐ 450 | 🐛 31 | 🌐 Python | 📅 2026-09-04 \[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,602 | 🐛 83 | 🌐 Rust | 📅 2026-09-29 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,604 | 🐛 83 | 🌐 Rust | 📅 2026-09-29 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 769 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 167 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -243,7 +243,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 * [CLJSL](https://github.com/IGJoshua/cljsl) ⭐ 24 | 🐛 0 | 🌐 Clojure | 📅 2022-05-08 - subset of Clojure compiled to GLSL for GPU programming
 * See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp) ⭐ 19 | 🐛 2 | 📅 2020-01-29.
 * Lisps for Microcontrollers
-  * [LispBM](https://github.com/svenssonjoel/lispBM) ⭐ 157 | 🐛 3 | 🌐 C | 📅 2026-10-05 (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
+  * [LispBM](https://github.com/svenssonjoel/lispBM) ⭐ 158 | 🐛 3 | 🌐 C | 📅 2026-10-05 (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
   * [uLisp](http://www.ulisp.com/) - fits into 2 Kbytes of RAM, embedded syntax for assembly
 * Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 * [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
