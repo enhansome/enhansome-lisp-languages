@@ -68,7 +68,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Multi Lang
 
-* [Mal](https://github.com/kanaka/mal) ⭐ 10,741 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+* [Mal](https://github.com/kanaka/mal) ⭐ 10,742 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 * [Lux](https://github.com/LuxLang/lux) ⭐ 1,745 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-21 \[Type-B] functional, statically-typed Lisp that will run on several platforms
 * [Wax](https://github.com/LingDong-/wax) ⭐ 857 | 🐛 15 | 🌐 C | 📅 2025-03-03 \[Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 * [Ribbit](https://github.com/udem-dlteam/ribbit) ⭐ 568 | 🐛 21 | 🌐 Scheme | 📅 2026-09-29 \[Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme
@@ -79,8 +79,8 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Common Lisp
 
-* [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,785 | 🐛 173 | 🌐 Common Lisp | 📅 2026-10-05 \[Type-L] compiled using LLVM, seamless integration with existing libraries
-* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,771 | 🐛 193 | 🌐 Common Lisp | 📅 2026-10-02 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
+* [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,785 | 🐛 173 | 🌐 Common Lisp | 📅 2026-10-06 \[Type-L] compiled using LLVM, seamless integration with existing libraries
+* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,772 | 🐛 191 | 🌐 Common Lisp | 📅 2026-10-06 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
 * [SBCL](http://www.sbcl.org) \[Type-L] high performance native code compiler, native threading support, type inference engine
 * [CLISP](https://clisp.sourceforge.io/) \[Type-L] uses bytecode compiler, easily portable
 * [Clozure CL](https://ccl.clozure.com/) \[Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
@@ -140,7 +140,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Go
 
 * [Zygo](https://github.com/glycerine/zygomys) ⭐ 1,790 | 🐛 8 | 🌐 Go | 📅 2026-06-30 \[Type-B] embedable, call into native Go using reflection, optional infix syntax
-* [let-go](https://github.com/nooga/let-go) ⭐ 568 | 🐛 182 | 🌐 Go | 📅 2026-10-06 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
+* [let-go](https://github.com/nooga/let-go) ⭐ 568 | 🐛 174 | 🌐 Go | 📅 2026-10-06 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
 * [ZYLISP](https://github.com/zylisp/zylisp) ⚠️ Archived \[Type-A] simple Lisp that compiles to Go (source or bytecode)
 * [Joker](https://joker-lang.org/) \[Type-C] interpreter, linter, great for scripting, Go interop is very limited
 * [Slick](https://github.com/pcostanza/slick) \[Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
@@ -196,7 +196,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Python
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,438 | 🐛 10 | 🌐 Python | 📅 2026-07-31 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
+* [Hy](https://github.com/hylang/hy) ⭐ 5,439 | 🐛 10 | 🌐 Python | 📅 2026-07-31 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 * [Pixie](https://github.com/pixie-lang/pixie) ⭐ 2,357 | 🐛 55 | 🌐 Python | 📅 2020-10-28 \[Type-B] Clojure inspired, written in RPython, custom GC and JIT
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 480 | 🐛 47 | 🌐 Python | 📅 2026-08-02 \[Type-C] Clojure-compatible, targeting Python3.6+
 * [Hissp](https://github.com/gilch/hissp) ⭐ 450 | 🐛 31 | 🌐 Python | 📅 2026-09-04 \[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,604 | 🐛 83 | 🌐 Rust | 📅 2026-09-29 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,605 | 🐛 83 | 🌐 Rust | 📅 2026-09-29 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 769 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 167 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -216,7 +216,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Shell
 
 * [Gherkin](https://github.com/alandipert/gherkin) ⚠️ Archived \[Type-B] (dormant) implemented in Bash, shell interop
-* [Fleck](https://github.com/chr15m/flk/) ⭐ 507 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,741 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
+* [Fleck](https://github.com/chr15m/flk/) ⭐ 507 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,742 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
 
 ### VHDL
 
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

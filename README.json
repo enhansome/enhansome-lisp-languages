@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10741,
+                "stars": 10742,
                 "topics": [
                   "bash",
                   "c",
@@ -185,7 +185,7 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-10-05T01:07:53Z",
+                "last_commit": "2026-10-06T14:33:57Z",
                 "open_issues": 173,
                 "owner": "clasp-developers",
                 "repo": "clasp",
@@ -210,11 +210,11 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-02T21:31:36Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-06T19:13:41Z",
+                "open_issues": 191,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1771,
+                "stars": 1772,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T04:13:13Z",
-                "open_issues": 182,
+                "last_commit": "2026-10-06T23:52:00Z",
+                "open_issues": 174,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 568,
@@ -1042,7 +1042,7 @@
                 "open_issues": 10,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5438,
+                "stars": 5439,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1196,7 +1196,7 @@
                 "open_issues": 83,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2604,
+                "stars": 2605,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:49:35.777Z",
+    "last_updated": "2026-10-07T01:50:26.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
