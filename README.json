@@ -63,7 +63,7 @@
                 "open_issues": 0,
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": [
                   "clojure",
                   "functional-languages",
@@ -99,7 +99,7 @@
                 "open_issues": 15,
                 "owner": "LingDong-",
                 "repo": "wax",
-                "stars": 857,
+                "stars": 855,
                 "topics": [
                   "c99",
                   "compiler",
@@ -210,11 +210,11 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-06T19:13:41Z",
-                "open_issues": 191,
+                "last_commit": "2026-10-07T23:53:13Z",
+                "open_issues": 168,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1772,
+                "stars": 1775,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -246,7 +246,7 @@
                 "open_issues": 141,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6060,
+                "stars": 6059,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T23:52:00Z",
-                "open_issues": 174,
+                "last_commit": "2026-10-07T22:57:55Z",
+                "open_issues": 180,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 568,
@@ -695,7 +695,7 @@
                 "id": 140467278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T21:06:20Z",
+                "last_commit": "2026-10-07T19:09:42Z",
                 "open_issues": 0,
                 "owner": "jlangch",
                 "repo": "venice",
@@ -756,7 +756,7 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-05T21:14:01Z",
+                "last_commit": "2026-10-07T21:17:35Z",
                 "open_issues": 21,
                 "owner": "squint-cljs",
                 "repo": "squint",
@@ -1042,7 +1042,7 @@
                 "open_issues": 10,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5439,
+                "stars": 5440,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1196,7 +1196,7 @@
                 "open_issues": 83,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2605,
+                "stars": 2606,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1686,7 +1686,7 @@
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:50:26.262Z",
+    "last_updated": "2026-10-08T02:17:57.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
