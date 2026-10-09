@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10742,
+                "stars": 10744,
                 "topics": [
                   "bash",
                   "c",
@@ -127,7 +127,7 @@
                 "open_issues": 21,
                 "owner": "udem-dlteam",
                 "repo": "ribbit",
-                "stars": 568,
+                "stars": 566,
                 "topics": [
                   "compiler",
                   "embeddable-language",
@@ -210,11 +210,11 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-07T23:53:13Z",
-                "open_issues": 168,
+                "last_commit": "2026-10-08T06:08:19Z",
+                "open_issues": 169,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -246,7 +246,7 @@
                 "open_issues": 141,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6059,
+                "stars": 6061,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -299,7 +299,7 @@
                 "open_issues": 18,
                 "owner": "digego",
                 "repo": "extempore",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -467,11 +467,11 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-05T22:55:16Z",
+                "last_commit": "2026-10-08T21:17:17Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
-                "stars": 1657,
+                "stars": 1658,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -527,7 +527,7 @@
                 "language": "Clojure",
                 "license": null,
                 "last_commit": "2026-10-06T09:06:13Z",
-                "open_issues": 125,
+                "open_issues": 127,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
                 "stars": 1648,
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-07T22:57:55Z",
-                "open_issues": 180,
+                "last_commit": "2026-10-09T00:29:46Z",
+                "open_issues": 185,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 568,
@@ -756,11 +756,11 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-07T21:17:35Z",
+                "last_commit": "2026-10-08T21:09:02Z",
                 "open_issues": 21,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 905,
+                "stars": 906,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1196,7 +1196,7 @@
                 "open_issues": 83,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2606,
+                "stars": 2608,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:17:57.362Z",
+    "last_updated": "2026-10-09T02:35:29.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
