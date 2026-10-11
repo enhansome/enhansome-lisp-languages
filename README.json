@@ -189,7 +189,7 @@
                 "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2785,
+                "stars": 2786,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -214,7 +214,7 @@
                 "open_issues": 169,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1776,
+                "stars": 1778,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -243,7 +243,7 @@
                 "language": "Haskell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T06:40:32Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "carp-lang",
                 "repo": "Carp",
                 "stars": 6062,
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-04T13:57:45Z",
+                "last_commit": "2026-10-10T19:52:36Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-09T21:42:43Z",
+                "last_commit": "2026-10-10T21:55:23Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -598,7 +598,7 @@
                 "open_issues": 8,
                 "owner": "glycerine",
                 "repo": "zygomys",
-                "stars": 1790,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-09T22:18:53Z",
-                "open_issues": 179,
+                "last_commit": "2026-10-10T22:31:17Z",
+                "open_issues": 175,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 570,
@@ -760,7 +760,7 @@
                 "open_issues": 20,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1042,7 +1042,7 @@
                 "open_issues": 10,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5440,
+                "stars": 5441,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1192,11 +1192,11 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T03:17:42Z",
+                "last_commit": "2026-10-10T16:28:40Z",
                 "open_issues": 83,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2611,
+                "stars": 2612,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1686,7 +1686,7 @@
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:56:16.511Z",
+    "last_updated": "2026-10-11T01:19:29.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
