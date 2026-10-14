@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10742,
+                "stars": 10743,
                 "topics": [
                   "bash",
                   "c",
@@ -124,7 +124,7 @@
                 "language": "Scheme",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-29T23:32:53Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "udem-dlteam",
                 "repo": "ribbit",
                 "stars": 566,
@@ -189,7 +189,7 @@
                 "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2787,
+                "stars": 2785,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -246,7 +246,7 @@
                 "open_issues": 142,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6061,
+                "stars": 6062,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -320,7 +320,7 @@
                 "open_issues": 28,
                 "owner": "tomhrr",
                 "repo": "dale",
-                "stars": 1048,
+                "stars": 1049,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-11T17:19:18Z",
+                "last_commit": "2026-10-13T14:05:48Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -594,11 +594,11 @@
                 "id": 49352054,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-06-30T14:11:06Z",
+                "last_commit": "2026-10-13T23:57:26Z",
                 "open_issues": 8,
                 "owner": "glycerine",
                 "repo": "zygomys",
-                "stars": 1789,
+                "stars": 1790,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,7 +615,7 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T02:39:02Z",
+                "last_commit": "2026-10-13T23:55:08Z",
                 "open_issues": 166,
                 "owner": "nooga",
                 "repo": "let-go",
@@ -756,8 +756,8 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-12T20:09:02Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-13T13:03:55Z",
+                "open_issues": 19,
                 "owner": "squint-cljs",
                 "repo": "squint",
                 "stars": 908,
@@ -785,7 +785,7 @@
                 "open_issues": 80,
                 "owner": "racketscript",
                 "repo": "racketscript",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "compiler",
                   "javascript",
@@ -811,7 +811,7 @@
                 "open_issues": 31,
                 "owner": "sctb",
                 "repo": "lumen",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -935,7 +935,7 @@
                 "open_issues": 31,
                 "owner": "sctb",
                 "repo": "lumen",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1042,7 +1042,7 @@
                 "open_issues": 11,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5440,
+                "stars": 5439,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1070,7 +1070,7 @@
                 "open_issues": 55,
                 "owner": "pixie-lang",
                 "repo": "pixie",
-                "stars": 2357,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1196,7 +1196,7 @@
                 "open_issues": 83,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2614,
+                "stars": 2616,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1682,7 +1682,7 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T18:56:40Z",
+                "last_commit": "2026-10-13T18:25:09Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:13:04.024Z",
+    "last_updated": "2026-10-14T01:26:09.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
