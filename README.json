@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10743,
+                "stars": 10745,
                 "topics": [
                   "bash",
                   "c",
@@ -189,7 +189,7 @@
                 "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2785,
+                "stars": 2786,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -211,7 +211,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-12T22:50:44Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "coalton-lang",
                 "repo": "coalton",
                 "stars": 1779,
@@ -246,7 +246,7 @@
                 "open_issues": 142,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6062,
+                "stars": 6064,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "kiselgra",
                 "repo": "c-mera",
-                "stars": 451,
+                "stars": 452,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-13T14:05:48Z",
+                "last_commit": "2026-10-14T21:13:09Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -526,8 +526,8 @@
                 "id": 332686695,
                 "language": "Clojure",
                 "license": null,
-                "last_commit": "2026-10-06T09:06:13Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-14T08:03:07Z",
+                "open_issues": 127,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
                 "stars": 1650,
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T23:55:08Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-14T20:23:24Z",
+                "open_issues": 167,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 571,
@@ -1042,7 +1042,7 @@
                 "open_issues": 11,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5439,
+                "stars": 5438,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1192,7 +1192,7 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T14:56:38Z",
+                "last_commit": "2026-10-14T02:50:25Z",
                 "open_issues": 83,
                 "owner": "mattwparas",
                 "repo": "steel",
@@ -1226,7 +1226,7 @@
                 "open_issues": 17,
                 "owner": "murarth",
                 "repo": "ketos",
-                "stars": 768,
+                "stars": 767,
                 "topics": [
                   "lisp",
                   "rust",
@@ -1405,7 +1405,7 @@
                 "open_issues": 109,
                 "owner": "PollRobots",
                 "repo": "scheme",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "scheme",
                   "scheme-interpreter",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:26:09.586Z",
+    "last_updated": "2026-10-15T00:57:39.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
