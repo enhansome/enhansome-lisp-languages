@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10744,
+                "stars": 10745,
                 "topics": [
                   "bash",
                   "c",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-10-09T14:54:50Z",
+                "last_commit": "2026-10-17T13:51:29Z",
                 "open_issues": 175,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2786,
+                "stars": 2788,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -243,10 +243,10 @@
                 "language": "Haskell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T12:12:23Z",
-                "open_issues": 142,
+                "open_issues": 144,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6067,
+                "stars": 6069,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-15T20:09:19Z",
+                "last_commit": "2026-10-17T21:30:29Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -564,7 +564,7 @@
                 "open_issues": 11,
                 "owner": "clojerl",
                 "repo": "clojerl",
-                "stars": 1715,
+                "stars": 1716,
                 "topics": [
                   "beam",
                   "clojure",
@@ -598,7 +598,7 @@
                 "open_issues": 8,
                 "owner": "glycerine",
                 "repo": "zygomys",
-                "stars": 1790,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T02:04:26Z",
-                "open_issues": 173,
+                "last_commit": "2026-10-17T23:09:34Z",
+                "open_issues": 168,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 571,
@@ -1091,7 +1091,7 @@
                 "open_issues": 47,
                 "owner": "basilisp-lang",
                 "repo": "basilisp",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "clojure",
                   "lisp",
@@ -1193,7 +1193,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T16:42:29Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "mattwparas",
                 "repo": "steel",
                 "stars": 2617,
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:48:05.149Z",
+    "last_updated": "2026-10-18T00:26:15.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 882,
+      "stars": 883,
       "topics": [
         "awesome",
         "awesome-list",
