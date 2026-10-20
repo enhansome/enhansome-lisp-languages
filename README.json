@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10747,
+                "stars": 10749,
                 "topics": [
                   "bash",
                   "c",
@@ -63,7 +63,7 @@
                 "open_issues": 0,
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1746,
+                "stars": 1748,
                 "topics": [
                   "clojure",
                   "functional-languages",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-10-17T13:51:29Z",
+                "last_commit": "2026-10-19T19:16:12Z",
                 "open_issues": 175,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2788,
+                "stars": 2789,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -242,11 +242,11 @@
                 "id": 49426320,
                 "language": "Haskell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T12:12:23Z",
-                "open_issues": 146,
+                "last_commit": "2026-10-19T05:54:40Z",
+                "open_issues": 145,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6069,
+                "stars": 6070,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "kiselgra",
                 "repo": "c-mera",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -492,7 +492,7 @@
                 "open_issues": 1,
                 "owner": "chr1st0scli",
                 "repo": "RainLisp",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "dotnet",
                   "interpreter",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-18T23:32:51Z",
-                "open_issues": 167,
+                "last_commit": "2026-10-19T17:07:07Z",
+                "open_issues": 169,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 571,
@@ -1192,11 +1192,11 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T16:42:29Z",
+                "last_commit": "2026-10-19T18:37:01Z",
                 "open_issues": 84,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2620,
+                "stars": 2621,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:33:11.921Z",
+    "last_updated": "2026-10-20T01:18:29.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
