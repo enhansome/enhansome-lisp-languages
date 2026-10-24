@@ -189,7 +189,7 @@
                 "open_issues": 175,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2790,
+                "stars": 2791,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -211,10 +211,10 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-16T01:15:52Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1779,
+                "stars": 1781,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -242,11 +242,11 @@
                 "id": 49426320,
                 "language": "Haskell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:23:38Z",
-                "open_issues": 151,
+                "last_commit": "2026-10-23T18:50:06Z",
+                "open_issues": 149,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6070,
+                "stars": 6073,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-11T14:37:05Z",
+                "last_commit": "2026-10-23T23:01:18Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -530,7 +530,7 @@
                 "open_issues": 127,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": [
                   "clojure",
                   "dart",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-22T18:56:48Z",
-                "open_issues": 164,
+                "last_commit": "2026-10-23T23:10:39Z",
+                "open_issues": 166,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 573,
@@ -760,7 +760,7 @@
                 "open_issues": 19,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 913,
+                "stars": 915,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1196,7 +1196,7 @@
                 "open_issues": 87,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2629,
+                "stars": 2630,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1485,7 +1485,7 @@
             "open_issues": 2,
             "owner": "chr15m",
             "repo": "awesome-clojure-likes",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:00:12.371Z",
+    "last_updated": "2026-10-24T01:09:57.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
