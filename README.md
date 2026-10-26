@@ -68,7 +68,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Multi Lang
 
-* [Mal](https://github.com/kanaka/mal) ⭐ 10,747 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+* [Mal](https://github.com/kanaka/mal) ⭐ 10,749 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 * [Lux](https://github.com/LuxLang/lux) ⭐ 1,748 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-24 \[Type-B] functional, statically-typed Lisp that will run on several platforms
 * [Wax](https://github.com/LingDong-/wax) ⭐ 856 | 🐛 15 | 🌐 C | 📅 2025-03-03 \[Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 * [Ribbit](https://github.com/udem-dlteam/ribbit) ⭐ 567 | 🐛 22 | 🌐 Scheme | 📅 2026-10-22 \[Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme
@@ -100,7 +100,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### C/C++
 
-* [Carp](https://github.com/carp-lang/Carp) ⭐ 6,074 | 🐛 149 | 🌐 Haskell | 📅 2026-10-23 \[Type-B] statically typed, no GC (Rust-like borrow checking)
+* [Carp](https://github.com/carp-lang/Carp) ⭐ 6,075 | 🐛 150 | 🌐 Haskell | 📅 2026-10-25 \[Type-B] statically typed, no GC (Rust-like borrow checking)
 * [FemtoLisp](https://github.com/JeffBezanson/femtolisp) ⭐ 1,723 | 🐛 21 | 🌐 Scheme | 📅 2020-02-26 \[Type-S] scheme-like lisp, powers the compiler of the Julia language
 * [Extempore](https://github.com/digego/extempore) ⭐ 1,467 | 🐛 18 | 🌐 C | 📅 2026-10-24 \[Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
 * [Dale](https://github.com/tomhrr/dale) ⭐ 1,049 | 🐛 28 | 🌐 C++ | 📅 2025-04-20 \[Type-B] Lisp-flavoured C with additional features, no GC, LLVM backend
@@ -120,7 +120,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### C\#
 
-* [Clojure CLR](https://github.com/clojure/clojure-clr) ⭐ 1,658 | 🐛 0 | 🌐 C# | 📅 2026-10-23 \[Type-C] great for game development with arcadia and unity
+* [Clojure CLR](https://github.com/clojure/clojure-clr) ⭐ 1,658 | 🐛 0 | 🌐 C# | 📅 2026-10-25 \[Type-C] great for game development with arcadia and unity
 * [RainLisp](https://github.com/chr1st0scli/RainLisp) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2026-08-01 \[Type-B] inspired by Scheme, interpreted, can be used as DSL integrating with .NET
 
 ### Dart
@@ -196,7 +196,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Python
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,439 | 🐛 9 | 🌐 Python | 📅 2026-10-24 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
+* [Hy](https://github.com/hylang/hy) ⭐ 5,440 | 🐛 10 | 🌐 Python | 📅 2026-10-24 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 * [Pixie](https://github.com/pixie-lang/pixie) ⭐ 2,358 | 🐛 55 | 🌐 Python | 📅 2020-10-28 \[Type-B] Clojure inspired, written in RPython, custom GC and JIT
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 482 | 🐛 47 | 🌐 Python | 📅 2026-08-02 \[Type-C] Clojure-compatible, targeting Python3.6+
 * [Hissp](https://github.com/gilch/hissp) ⭐ 452 | 🐛 31 | 🌐 Python | 📅 2026-09-04 \[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,632 | 🐛 87 | 🌐 Rust | 📅 2026-10-22 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,632 | 🐛 87 | 🌐 Rust | 📅 2026-10-25 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 768 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 168 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -216,7 +216,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Shell
 
 * [Gherkin](https://github.com/alandipert/gherkin) ⚠️ Archived \[Type-B] (dormant) implemented in Bash, shell interop
-* [Fleck](https://github.com/chr15m/flk/) ⭐ 508 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,747 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
+* [Fleck](https://github.com/chr15m/flk/) ⭐ 508 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,749 | 🐛 56 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
 
 ### VHDL
 
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
