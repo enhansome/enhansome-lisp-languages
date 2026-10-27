@@ -18,10 +18,10 @@
                 "language": "Assembly",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-22T16:42:57Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10749,
+                "stars": 10750,
                 "topics": [
                   "bash",
                   "c",
@@ -214,7 +214,7 @@
                 "open_issues": 170,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1781,
+                "stars": 1782,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -246,7 +246,7 @@
                 "open_issues": 150,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6075,
+                "stars": 6078,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -299,7 +299,7 @@
                 "open_issues": 18,
                 "owner": "digego",
                 "repo": "extempore",
-                "stars": 1467,
+                "stars": 1468,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-24T23:44:05Z",
-                "open_issues": 169,
+                "last_commit": "2026-10-26T17:01:14Z",
+                "open_issues": 170,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 575,
@@ -756,8 +756,8 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-15T10:29:08Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-26T15:59:47Z",
+                "open_issues": 20,
                 "owner": "squint-cljs",
                 "repo": "squint",
                 "stars": 916,
@@ -1196,7 +1196,7 @@
                 "open_issues": 87,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2632,
+                "stars": 2633,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1686,7 +1686,7 @@
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:45:14.546Z",
+    "last_updated": "2026-10-27T01:38:05.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 886,
+      "stars": 887,
       "topics": [
         "awesome",
         "awesome-list",
