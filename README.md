@@ -100,7 +100,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### C/C++
 
-* [Carp](https://github.com/carp-lang/Carp) ⭐ 6,081 | 🐛 150 | 🌐 Haskell | 📅 2026-10-25 \[Type-B] statically typed, no GC (Rust-like borrow checking)
+* [Carp](https://github.com/carp-lang/Carp) ⭐ 6,082 | 🐛 150 | 🌐 Haskell | 📅 2026-10-25 \[Type-B] statically typed, no GC (Rust-like borrow checking)
 * [FemtoLisp](https://github.com/JeffBezanson/femtolisp) ⭐ 1,722 | 🐛 21 | 🌐 Scheme | 📅 2020-02-26 \[Type-S] scheme-like lisp, powers the compiler of the Julia language
 * [Extempore](https://github.com/digego/extempore) ⭐ 1,468 | 🐛 18 | 🌐 C | 📅 2026-10-24 \[Type-S] designed for live coding and music performances, temporal scheduling based on audio card sample rate
 * [Dale](https://github.com/tomhrr/dale) ⭐ 1,050 | 🐛 28 | 🌐 C++ | 📅 2025-04-20 \[Type-B] Lisp-flavoured C with additional features, no GC, LLVM backend
@@ -108,7 +108,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 * [Liz](https://github.com/dundalek/liz) ⭐ 293 | 🐛 0 | 🌐 Clojure | 📅 2021-10-02 \[Type-A] written as EDN, compiles to Zig, customizable memory allocators, native binaries for many architectures
 * [jo\_clojure](https://github.com/Zelex/jo_clojure) ⭐ 153 | 🐛 1 | 🌐 C++ | 📅 2025-04-26 \[Type-C] Fast Embeddable Clojure in C/C++, including persistent datastructures and STM
 * [Lcc](https://github.com/saman-pasha/lcc) ⚠️ Archived \[Type-A] Lisp-like syntax for writing C
-* [Toccata](https://github.com/Toccata-Lang/toccata) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2026-10-24 \[Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
+* [Toccata](https://github.com/Toccata-Lang/toccata) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2026-10-31 \[Type-C] Clojure-inspired, gradually typed, no nil values, reference counting, compiles into native binaries
 * [Cakelisp](https://github.com/makuto/cakelisp) \[Type-A] performance-oriented, good for game development, compiles down to C/C++, macros and compile-time code modification
 * [Ferret](https://ferret-lang.org/) \[Type-C] aimed towards embedded systems
 * [Janet](https://janet-lang.org/) \[Type-B] embedable, large standard library, GC
@@ -120,7 +120,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### C\#
 
-* [Clojure CLR](https://github.com/clojure/clojure-clr) ⭐ 1,658 | 🐛 0 | 🌐 C# | 📅 2026-10-30 \[Type-C] great for game development with arcadia and unity
+* [Clojure CLR](https://github.com/clojure/clojure-clr) ⭐ 1,658 | 🐛 0 | 🌐 C# | 📅 2026-10-31 \[Type-C] great for game development with arcadia and unity
 * [RainLisp](https://github.com/chr1st0scli/RainLisp) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2026-08-01 \[Type-B] inspired by Scheme, interpreted, can be used as DSL integrating with .NET
 
 ### Dart
@@ -140,7 +140,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Go
 
 * [Zygo](https://github.com/glycerine/zygomys) ⭐ 1,792 | 🐛 8 | 🌐 Go | 📅 2026-10-13 \[Type-B] embedable, call into native Go using reflection, optional infix syntax
-* [let-go](https://github.com/nooga/let-go) ⭐ 575 | 🐛 162 | 🌐 Go | 📅 2026-10-31 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
+* [let-go](https://github.com/nooga/let-go) ⭐ 575 | 🐛 164 | 🌐 Go | 📅 2026-10-31 \[Type-C] compiler, bytecode VM, Go interop, small footprint, fast booting
 * [ZYLISP](https://github.com/zylisp/zylisp) ⚠️ Archived \[Type-A] simple Lisp that compiles to Go (source or bytecode)
 * [Joker](https://joker-lang.org/) \[Type-C] interpreter, linter, great for scripting, Go interop is very limited
 * [Slick](https://github.com/pcostanza/slick) \[Type-L]  Lisp/Scheme-style s-expression surface syntax for the Go programming language
@@ -199,7 +199,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 * [Hy](https://github.com/hylang/hy) ⭐ 5,440 | 🐛 10 | 🌐 Python | 📅 2026-10-24 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 * [Pixie](https://github.com/pixie-lang/pixie) ⭐ 2,359 | 🐛 55 | 🌐 Python | 📅 2020-10-28 \[Type-B] Clojure inspired, written in RPython, custom GC and JIT
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 482 | 🐛 49 | 🌐 Python | 📅 2026-08-02 \[Type-C] Clojure-compatible, targeting Python3.6+
-* [Hissp](https://github.com/gilch/hissp) ⭐ 452 | 🐛 31 | 🌐 Python | 📅 2026-09-04 \[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
+* [Hissp](https://github.com/gilch/hissp) ⭐ 451 | 🐛 31 | 🌐 Python | 📅 2026-09-04 \[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
 
 ### R
 
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,639 | 🐛 90 | 🌐 Rust | 📅 2026-10-25 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,640 | 🐛 90 | 🌐 Rust | 📅 2026-10-25 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 768 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 168 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

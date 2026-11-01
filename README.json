@@ -246,7 +246,7 @@
                 "open_issues": 150,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6081,
+                "stars": 6082,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -439,7 +439,7 @@
                 "id": 91280053,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-24T19:14:54Z",
+                "last_commit": "2026-10-31T23:07:07Z",
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-30T20:52:08Z",
+                "last_commit": "2026-10-31T14:46:20Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-31T01:36:27Z",
-                "open_issues": 162,
+                "last_commit": "2026-10-31T15:49:33Z",
+                "open_issues": 164,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 575,
@@ -1116,7 +1116,7 @@
                 "open_issues": 31,
                 "owner": "gilch",
                 "repo": "hissp",
-                "stars": 452,
+                "stars": 451,
                 "topics": [
                   "ast",
                   "code-generation",
@@ -1196,7 +1196,7 @@
                 "open_issues": 90,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2639,
+                "stars": 2640,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:52:21.395Z",
+    "last_updated": "2026-11-01T01:30:20.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 6,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 887,
+      "stars": 886,
       "topics": [
         "awesome",
         "awesome-list",
