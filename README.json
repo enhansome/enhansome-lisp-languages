@@ -21,7 +21,7 @@
                 "open_issues": 57,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10757,
+                "stars": 10758,
                 "topics": [
                   "bash",
                   "c",
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
-                "stars": 1658,
+                "stars": 1659,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -560,8 +560,8 @@
                 "id": 39593397,
                 "language": "Erlang",
                 "license": "EPL-1.0",
-                "last_commit": "2025-01-07T22:23:02Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-03T04:01:57Z",
+                "open_issues": 13,
                 "owner": "clojerl",
                 "repo": "clojerl",
                 "stars": 1717,
@@ -619,7 +619,7 @@
                 "open_issues": 166,
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -756,8 +756,8 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-02T11:58:53Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-03T19:35:04Z",
+                "open_issues": 18,
                 "owner": "squint-cljs",
                 "repo": "squint",
                 "stars": 928,
@@ -785,7 +785,7 @@
                 "open_issues": 80,
                 "owner": "racketscript",
                 "repo": "racketscript",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "compiler",
                   "javascript",
@@ -1192,11 +1192,11 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T15:37:59Z",
+                "last_commit": "2026-11-04T01:36:36Z",
                 "open_issues": 98,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2641,
+                "stars": 2642,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1686,7 +1686,7 @@
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:44:19.445Z",
+    "last_updated": "2026-11-04T02:45:23.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 7,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 886,
+      "stars": 887,
       "topics": [
         "awesome",
         "awesome-list",
