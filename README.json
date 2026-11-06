@@ -21,7 +21,7 @@
                 "open_issues": 57,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10758,
+                "stars": 10759,
                 "topics": [
                   "bash",
                   "c",
@@ -214,7 +214,7 @@
                 "open_issues": 171,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1787,
+                "stars": 1788,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -246,7 +246,7 @@
                 "open_issues": 148,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6086,
+                "stars": 6087,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -295,7 +295,7 @@
                 "id": 1286914,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-05T01:19:36Z",
+                "last_commit": "2026-11-05T06:03:40Z",
                 "open_issues": 18,
                 "owner": "digego",
                 "repo": "extempore",
@@ -467,7 +467,7 @@
                 "id": 2899001,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-11-04T03:28:28Z",
+                "last_commit": "2026-11-06T00:14:13Z",
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
@@ -760,7 +760,7 @@
                 "open_issues": 18,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 928,
+                "stars": 929,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -963,7 +963,7 @@
                 "open_issues": 19,
                 "owner": "programming-nu",
                 "repo": "nu",
-                "stars": 2187,
+                "stars": 2186,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1091,7 +1091,7 @@
                 "open_issues": 49,
                 "owner": "basilisp-lang",
                 "repo": "basilisp",
-                "stars": 482,
+                "stars": 483,
                 "topics": [
                   "clojure",
                   "lisp",
@@ -1196,7 +1196,7 @@
                 "open_issues": 98,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2647,
+                "stars": 2648,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1639,7 +1639,7 @@
             "open_issues": 0,
             "owner": "IGJoshua",
             "repo": "cljsl",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:51:39.952Z",
+    "last_updated": "2026-11-06T02:51:47.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
