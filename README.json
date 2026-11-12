@@ -18,7 +18,7 @@
                 "language": "Assembly",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-22T16:42:57Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "kanaka",
                 "repo": "mal",
                 "stars": 10761,
@@ -127,7 +127,7 @@
                 "open_issues": 22,
                 "owner": "udem-dlteam",
                 "repo": "ribbit",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "compiler",
                   "embeddable-language",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-11-10T20:35:58Z",
+                "last_commit": "2026-11-11T19:19:27Z",
                 "open_issues": 176,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2793,
+                "stars": 2794,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -211,7 +211,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-11-06T04:10:56Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "coalton-lang",
                 "repo": "coalton",
                 "stars": 1789,
@@ -246,7 +246,7 @@
                 "open_issues": 148,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6101,
+                "stars": 6102,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -530,7 +530,7 @@
                 "open_issues": 127,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
-                "stars": 1653,
+                "stars": 1655,
                 "topics": [
                   "clojure",
                   "dart",
@@ -619,7 +619,7 @@
                 "open_issues": 162,
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -854,7 +854,7 @@
                 "id": 209728796,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-11-10T04:13:12Z",
+                "last_commit": "2026-11-11T06:36:00Z",
                 "open_issues": 4,
                 "owner": "cxxxr",
                 "repo": "valtan",
@@ -963,7 +963,7 @@
                 "open_issues": 19,
                 "owner": "programming-nu",
                 "repo": "nu",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1039,10 +1039,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-24T15:32:46Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5444,
+                "stars": 5445,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1192,7 +1192,7 @@
                 "id": 241949362,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T01:26:32Z",
+                "last_commit": "2026-11-12T03:01:53Z",
                 "open_issues": 99,
                 "owner": "mattwparas",
                 "repo": "steel",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:17:25.493Z",
+    "last_updated": "2026-11-12T03:25:29.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
