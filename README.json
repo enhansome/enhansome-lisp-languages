@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10771,
+                "stars": 10769,
                 "topics": [
                   "bash",
                   "c",
@@ -63,7 +63,7 @@
                 "open_issues": 0,
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1751,
+                "stars": 1750,
                 "topics": [
                   "clojure",
                   "functional-languages",
@@ -99,7 +99,7 @@
                 "open_issues": 15,
                 "owner": "LingDong-",
                 "repo": "wax",
-                "stars": 858,
+                "stars": 857,
                 "topics": [
                   "c99",
                   "compiler",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-11-14T04:36:49Z",
+                "last_commit": "2026-11-19T19:59:43Z",
                 "open_issues": 175,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2795,
+                "stars": 2797,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -299,7 +299,7 @@
                 "open_issues": 18,
                 "owner": "digego",
                 "repo": "extempore",
-                "stars": 1468,
+                "stars": 1467,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "kiselgra",
                 "repo": "c-mera",
-                "stars": 456,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -443,7 +443,7 @@
                 "open_issues": 0,
                 "owner": "Toccata-Lang",
                 "repo": "toccata",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "clojure-clr",
-                "stars": 1661,
+                "stars": 1662,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -527,7 +527,7 @@
                 "language": "Clojure",
                 "license": null,
                 "last_commit": "2026-11-09T10:49:51Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
                 "stars": 1654,
@@ -598,7 +598,7 @@
                 "open_issues": 8,
                 "owner": "glycerine",
                 "repo": "zygomys",
-                "stars": 1794,
+                "stars": 1793,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -615,8 +615,8 @@
                 "id": 340518175,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-16T01:57:08Z",
-                "open_issues": 172,
+                "last_commit": "2026-11-19T23:48:27Z",
+                "open_issues": 176,
                 "owner": "nooga",
                 "repo": "let-go",
                 "stars": 581,
@@ -739,7 +739,7 @@
                 "open_issues": 59,
                 "owner": "wisp-lang",
                 "repo": "wisp",
-                "stars": 985,
+                "stars": 984,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -760,7 +760,7 @@
                 "open_issues": 18,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 936,
+                "stars": 935,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -785,7 +785,7 @@
                 "open_issues": 80,
                 "owner": "racketscript",
                 "repo": "racketscript",
-                "stars": 741,
+                "stars": 739,
                 "topics": [
                   "compiler",
                   "javascript",
@@ -811,7 +811,7 @@
                 "open_issues": 31,
                 "owner": "sctb",
                 "repo": "lumen",
-                "stars": 571,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -832,7 +832,7 @@
                 "open_issues": 21,
                 "owner": "anko",
                 "repo": "eslisp",
-                "stars": 540,
+                "stars": 539,
                 "topics": [
                   "compiler",
                   "javascript",
@@ -935,7 +935,7 @@
                 "open_issues": 31,
                 "owner": "sctb",
                 "repo": "lumen",
-                "stars": 571,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1042,7 +1042,7 @@
                 "open_issues": 10,
                 "owner": "hylang",
                 "repo": "hy",
-                "stars": 5446,
+                "stars": 5445,
                 "topics": [
                   "compiler",
                   "hy",
@@ -1070,7 +1070,7 @@
                 "open_issues": 55,
                 "owner": "pixie-lang",
                 "repo": "pixie",
-                "stars": 2352,
+                "stars": 2351,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1116,7 +1116,7 @@
                 "open_issues": 31,
                 "owner": "gilch",
                 "repo": "hissp",
-                "stars": 453,
+                "stars": 451,
                 "topics": [
                   "ast",
                   "code-generation",
@@ -1196,7 +1196,7 @@
                 "open_issues": 97,
                 "owner": "mattwparas",
                 "repo": "steel",
-                "stars": 2662,
+                "stars": 2661,
                 "topics": [
                   "contracts",
                   "lisp",
@@ -1226,7 +1226,7 @@
                 "open_issues": 17,
                 "owner": "murarth",
                 "repo": "ketos",
-                "stars": 771,
+                "stars": 770,
                 "topics": [
                   "lisp",
                   "rust",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:52:17.146Z",
+    "last_updated": "2026-11-20T03:44:56.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 8,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 888,
+      "stars": 889,
       "topics": [
         "awesome",
         "awesome-list",
