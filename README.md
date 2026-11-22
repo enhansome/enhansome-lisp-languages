@@ -80,7 +80,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Common Lisp
 
 * [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,797 | 🐛 175 | 🌐 Common Lisp | 📅 2026-11-20 \[Type-L] compiled using LLVM, seamless integration with existing libraries
-* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,793 | 🐛 171 | 🌐 Common Lisp | 📅 2026-11-19 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
+* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,793 | 🐛 158 | 🌐 Common Lisp | 📅 2026-11-21 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
 * [SBCL](http://www.sbcl.org) \[Type-L] high performance native code compiler, native threading support, type inference engine
 * [CLISP](https://clisp.sourceforge.io/) \[Type-L] uses bytecode compiler, easily portable
 * [Clozure CL](https://ccl.clozure.com/) \[Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
@@ -207,7 +207,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Rust
 
-* [Steel](https://github.com/mattwparas/steel) ⭐ 2,661 | 🐛 96 | 🌐 Rust | 📅 2026-11-20 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
+* [Steel](https://github.com/mattwparas/steel) ⭐ 2,661 | 🐛 96 | 🌐 Rust | 📅 2026-11-21 \[Type-S] embedded scheme interpreter in Rust, inspired by Racket
 * [Ketos](https://github.com/murarth/ketos) ⭐ 770 | 🐛 17 | 🌐 Rust | 📅 2021-05-18 \[Type-B] scripting and extension language for Rust programs, compiled to bytecode
 * [Rustly](https://github.com/timothypratley/rustly) ⭐ 168 | 🐛 0 | 🌐 Clojure | 📅 2020-03-22 \[Type-C] transpiler, only small subset of Clojure supported
 * [BLisp](https://ytakano.github.io/blisp/) \[Type-B] statically typed scripting language, type inference, algebraic data types, generics
@@ -243,7 +243,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 * [CLJSL](https://github.com/IGJoshua/cljsl) ⭐ 25 | 🐛 0 | 🌐 Clojure | 📅 2022-05-08 - subset of Clojure compiled to GLSL for GPU programming
 * See also list of languages  [implemented in Lisp](https://github.com/vindarel/list-of-languages-implemented-in-lisp) ⭐ 19 | 🐛 2 | 📅 2020-01-29.
 * Lisps for Microcontrollers
-  * [LispBM](https://github.com/svenssonjoel/lispBM) ⭐ 162 | 🐛 3 | 🌐 C | 📅 2026-11-14 (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
+  * [LispBM](https://github.com/svenssonjoel/lispBM) ⭐ 162 | 🐛 3 | 🌐 C | 📅 2026-11-21 (LBM) - concurrency and message passing influenced by Erlang, threads with mailbox, pattern-matching
   * [uLisp](http://www.ulisp.com/) - fits into 2 Kbytes of RAM, embedded syntax for assembly
 * Additional "write C in Lisp" [projects](https://www.reddit.com/r/lisp/comments/e10spm/a_list_of_various_lispflavored_programming/f8n6qxa/) (most of them not ready for a prime time).
 * [Build your own lisp](http://www.buildyourownlisp.com/) - a book describing building a Lisp dialect
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
