@@ -68,7 +68,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Multi Lang
 
-* [Mal](https://github.com/kanaka/mal) ⭐ 10,769 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
+* [Mal](https://github.com/kanaka/mal) ⭐ 10,772 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22 is an educational lisp with implementations in dozens of languages. It is a great resource for learning about lisp implementation.
 * [Lux](https://github.com/LuxLang/lux) ⭐ 1,750 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-11-16 \[Type-B] functional, statically-typed Lisp that will run on several platforms
 * [Wax](https://github.com/LingDong-/wax) ⭐ 857 | 🐛 15 | 🌐 C | 📅 2025-03-03 \[Type-A] tiny programming language, strongly statically typed, manual memory management, transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly
 * [Ribbit](https://github.com/udem-dlteam/ribbit) ⭐ 572 | 🐛 24 | 🌐 Scheme | 📅 2026-11-17 \[Type-S] small and portable Scheme implementation (R4RS, 4 KB footprint), AOT and incremental compilers, targets C, JavaScript, Python and Scheme
@@ -79,8 +79,8 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 ### Common Lisp
 
-* [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,797 | 🐛 175 | 🌐 Common Lisp | 📅 2026-11-20 \[Type-L] compiled using LLVM, seamless integration with existing libraries
-* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,793 | 🐛 158 | 🌐 Common Lisp | 📅 2026-11-21 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
+* [Clasp](https://github.com/clasp-developers/clasp) ⭐ 2,798 | 🐛 175 | 🌐 Common Lisp | 📅 2026-11-23 \[Type-L] compiled using LLVM, seamless integration with existing libraries
+* [Coalton](https://github.com/coalton-lang/coalton) ⭐ 1,794 | 🐛 156 | 🌐 Common Lisp | 📅 2026-11-23 \[Type-L] efficient, statically typed functional programming language that supercharges Common Lisp
 * [SBCL](http://www.sbcl.org) \[Type-L] high performance native code compiler, native threading support, type inference engine
 * [CLISP](https://clisp.sourceforge.io/) \[Type-L] uses bytecode compiler, easily portable
 * [Clozure CL](https://ccl.clozure.com/) \[Type-L] fast compilation speed, native threads, precise generational compacting garbage collector, convenient foreign-function interface
@@ -198,7 +198,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 
 * [Hy](https://github.com/hylang/hy) ⭐ 5,445 | 🐛 10 | 🌐 Python | 📅 2026-11-15 \[Type-A] compiles to Python AST, use Python ML libraries, runs on PyPy
 * [Pixie](https://github.com/pixie-lang/pixie) ⭐ 2,351 | 🐛 55 | 🌐 Python | 📅 2020-10-28 \[Type-B] Clojure inspired, written in RPython, custom GC and JIT
-* [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 485 | 🐛 47 | 🌐 Python | 📅 2026-11-21 \[Type-C] Clojure-compatible, targeting Python3.6+
+* [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 485 | 🐛 47 | 🌐 Python | 📅 2026-11-22 \[Type-C] Clojure-compatible, targeting Python3.6+
 * [Hissp](https://github.com/gilch/hissp) ⭐ 451 | 🐛 31 | 🌐 Python | 📅 2026-09-04 \[Type-A] compiles to a functional subset of Python, macro metaprogramming with Python ecosystem
 
 ### R
@@ -216,7 +216,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Shell
 
 * [Gherkin](https://github.com/alandipert/gherkin) ⚠️ Archived \[Type-B] (dormant) implemented in Bash, shell interop
-* [Fleck](https://github.com/chr15m/flk/) ⭐ 508 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,769 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
+* [Fleck](https://github.com/chr15m/flk/) ⭐ 508 | 🐛 1 | 🌐 Shell | 📅 2021-12-18 \[Type-A] Clojure-like, based on [Mal](https://github.com/kanaka/mal/) ⭐ 10,772 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22, packaged as single-file Bash script
 
 ### VHDL
 
@@ -256,4 +256,4 @@ Anything incorrect? Is there an interested project that is missing? Open an issu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

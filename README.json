@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10769,
+                "stars": 10772,
                 "topics": [
                   "bash",
                   "c",
@@ -185,11 +185,11 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-11-20T18:46:04Z",
+                "last_commit": "2026-11-23T00:52:12Z",
                 "open_issues": 175,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2797,
+                "stars": 2798,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -210,11 +210,11 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-11-21T20:04:32Z",
-                "open_issues": 158,
+                "last_commit": "2026-11-23T01:54:34Z",
+                "open_issues": 156,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1793,
+                "stars": 1794,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -1087,7 +1087,7 @@
                 "id": 133253047,
                 "language": "Python",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-21T23:18:23Z",
+                "last_commit": "2026-11-22T18:09:05Z",
                 "open_issues": 47,
                 "owner": "basilisp-lang",
                 "repo": "basilisp",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:40:44.444Z",
+    "last_updated": "2026-11-23T03:12:12.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
@@ -1728,7 +1728,7 @@
       "open_issues": 8,
       "owner": "dundalek",
       "repo": "awesome-lisp-languages",
-      "stars": 889,
+      "stars": 890,
       "topics": [
         "awesome",
         "awesome-list",
