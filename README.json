@@ -189,7 +189,7 @@
                 "open_issues": 175,
                 "owner": "clasp-developers",
                 "repo": "clasp",
-                "stars": 2798,
+                "stars": 2797,
                 "topics": [
                   "common-lisp",
                   "compiler",
@@ -295,7 +295,7 @@
                 "id": 1286914,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-26T02:48:22Z",
+                "last_commit": "2026-11-27T02:48:41Z",
                 "open_issues": 19,
                 "owner": "digego",
                 "repo": "extempore",
@@ -616,10 +616,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-26T02:36:23Z",
-                "open_issues": 176,
+                "open_issues": 177,
                 "owner": "nooga",
                 "repo": "let-go",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -756,7 +756,7 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-25T13:58:10Z",
+                "last_commit": "2026-11-26T16:00:36Z",
                 "open_issues": 18,
                 "owner": "squint-cljs",
                 "repo": "squint",
@@ -963,7 +963,7 @@
                 "open_issues": 19,
                 "owner": "programming-nu",
                 "repo": "nu",
-                "stars": 2189,
+                "stars": 2188,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1039,7 +1039,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T15:09:20Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "hylang",
                 "repo": "hy",
                 "stars": 5447,
@@ -1279,7 +1279,7 @@
                 "open_issues": 17,
                 "owner": "alandipert",
                 "repo": "gherkin",
-                "stars": 522,
+                "stars": 521,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:46.935Z"
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:30:28.126Z",
+    "last_updated": "2026-11-27T04:35:12.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Lisp-flavored programming languages",
